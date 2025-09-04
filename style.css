@@ -46,12 +46,16 @@ p {
   margin-bottom: 1.5em;
 }
 
+#banner {
+  margin-top: 2em;
+}
+
 #mass-times {
   flex: 50%;
 }
 
 #mass-times h2 {
-  margin-top: 1em;
+  margin-top: 0;
 }
 
 #mass-times h3 {
@@ -78,6 +82,7 @@ p {
   font-weight: bold;
   list-style-type: none;
   padding-left: 0;
+  text-underline-position: under;
 }
 
 .button-list i {
@@ -94,12 +99,9 @@ p {
   margin-top: 1em;
 }
 
-#location {
-  margin-top: 1em;
-}
-
 #location img {
   max-height: 18em;
+  margin-top: 1em;
 }
 
 .social-buttons {
@@ -126,6 +128,13 @@ p {
   border-radius: 10px;
   white-space: nowrap;
   flex: 1;
+  box-sizing: border-box;
+}
+
+.social-buttons a:hover {
+  text-decoration: none;
+  border: 2px solid;
+  margin: -1px;
 }
 
 .social-buttons a i {
@@ -146,6 +155,7 @@ p {
 @media only screen and (min-width: 1024px) {
   #banner {
     display: flex;
+    align-items: stretch;
   }
 
   #location {
@@ -154,15 +164,16 @@ p {
   }
 
   #location img {
-    width: 380px;
-    height: auto;
-  }
-
-  .mobile-hidden {
-    display: revert !important;
+    margin-top: 0 !important;
+    max-width: 100%;
+    max-height: none !important;
   }
 
   #tagline {
     font-size: 1.25em;
+  }
+
+  .mobile-hidden {
+    display: revert !important;
   }
 }
