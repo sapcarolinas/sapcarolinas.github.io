@@ -50,7 +50,13 @@ p {
   margin-top: 2em;
 }
 
-#mass-times {
+.panel > div:first-child {
+  padding-right: 1em;
+
+}
+
+.panel > div {
+  box-sizing: border-box;
   flex: 50%;
 }
 
@@ -104,10 +110,30 @@ p {
   margin-top: 1em;
 }
 
+#sap-life {
+  text-align: center;
+}
+
+#sap-life h2 {
+  font-weight: normal;
+  font-style: italic;
+}
+
+#sap-life h3 {
+  font-style: italic;
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+}
+
+#sap-life ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .social-buttons {
   font-family: Arial, sans-serif;
   font-weight: bold;
-  list-style-type: none;
   padding-left: 0;
   margin-top: 1.25em;
   list-style: none;
@@ -153,14 +179,26 @@ p {
 
 /* Overrides for desktop browsers go here. */
 @media only screen and (min-width: 1024px) {
-  #banner {
+  .panel {
     display: flex;
     align-items: stretch;
   }
 
+  #sap-life > div{
+    display: flex;
+    align-items: stretch;
+  }
+
+  #sap-life > div > div {
+    flex: 33%;
+  }
+
+  #sap-life h3 {
+    margin-top: 0.5em !important;
+  }
+
   #location {
     text-align: center;
-    flex: 50%;
   }
 
   #location img {
