@@ -33,10 +33,19 @@ p {
   margin-bottom: 0.5em;
 }
 
-#header {
+header img:first-of-type {
   width: 100%;
   border-bottom: 1px solid #000;
   padding: 0 0 1em 0;
+}
+
+header h1 {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+header .nav a, header .nav a:visited {
+  color: inherit;
 }
 
 #tagline {
@@ -50,12 +59,16 @@ p {
   margin-top: 2em;
 }
 
-.panel > div:first-child {
+#location img {
+  max-width: 100%;
+}
+
+.two-col > div:first-child {
   padding-right: 1em;
 
 }
 
-.panel > div {
+.two-col > div {
   box-sizing: border-box;
   flex: 50%;
 }
@@ -83,7 +96,7 @@ p {
   text-align: right;
 }
 
-.button-list {
+.link-list {
   font-family: Arial, sans-serif;
   font-weight: bold;
   list-style-type: none;
@@ -91,21 +104,16 @@ p {
   text-underline-position: under;
 }
 
-.button-list i {
+.link-list i {
   padding-right: 0.3em;
   vertical-align: middle;
 }
 
-.button-list span {
+.link-list span {
   vertical-align: middle;
 }
 
-.button-list li + li {
-  margin-top: 1em;
-}
-
-#location img {
-  max-height: 18em;
+.link-list li + li {
   margin-top: 1em;
 }
 
@@ -120,7 +128,6 @@ p {
 
 #sap-life h3 {
   font-style: italic;
-  margin-top: 1em;
   margin-bottom: 0.25em;
 }
 
@@ -137,48 +144,50 @@ p {
   margin-top: 1.25em;
   list-style: none;
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
   gap: 1em;
   justify-content: left;
 }
 
 .social-buttons li {
-  flex: 1;
   display: flex;
 }
 
-.social-buttons a {
+.social-buttons li a {
   border: 1px solid;
   padding: 0.5em;
   border-radius: 10px;
   white-space: nowrap;
-  flex: 1;
   box-sizing: border-box;
+  width: 10em;
 }
 
 .social-buttons a:hover {
   text-decoration: none;
-  border: 2px solid;
-  margin: -1px;
+  outline: 1px solid;
 }
 
-.social-buttons a i {
+.social-buttons li a i {
   margin-right: 0.2em;
   vertical-align: middle;
 }
 
-.social-buttons a span {
+.social-buttons li a span {
   width: 100%;
   vertical-align: middle;
 }
 
-.mobile-hidden {
-  display: none;
+article img {
+  filter: drop-shadow(3px 3px 5px #222);
 }
 
-/* Overrides for desktop browsers go here. */
-@media only screen and (min-width: 1024px) {
-  .panel {
+article h2 {
+  text-align: center;
+}
+
+/* Desktop Browsers */
+@media only screen and (min-width: 960px) {
+  .two-col {
     display: flex;
     align-items: stretch;
   }
@@ -193,24 +202,67 @@ p {
   }
 
   #sap-life h3 {
-    margin-top: 0.5em !important;
+    margin-top: 0.5em;
   }
 
   #location {
     text-align: center;
   }
 
-  #location img {
-    margin-top: 0 !important;
-    max-width: 100%;
-    max-height: none !important;
-  }
-
   #tagline {
     font-size: 1.25em;
   }
 
+  article h2 {
+    text-align: left;
+  }
+
+  article p {
+    text-align: justify;
+  }
+
+  article img {
+    max-height: none;
+    max-width: 50%;
+  }
+
+  article section {
+    clear: both;
+  }
+
+  article img.right {
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+    float: right;
+  }
+
+  article img.left {
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+    float: left;
+  }
+}
+
+/* Mobile Browsers */
+@media only screen and (max-width: 959px) {
   .mobile-hidden {
-    display: revert !important;
+    display: none;
+  }
+
+  #location img {
+    max-height: 18em;
+    margin-top: 1em;
+  }
+
+  #sap-life h3 {
+    margin-top: 1em;
+  }
+
+  article img {
+    max-height: 18em;
+    max-width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
