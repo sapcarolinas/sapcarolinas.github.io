@@ -33,6 +33,10 @@ p {
   margin-bottom: 0.5em;
 }
 
+img {
+  user-select: none;
+}
+
 header img:first-of-type {
   width: 100%;
   border-bottom: 1px solid #000;
@@ -44,7 +48,7 @@ header h1 {
   margin-bottom: 1em;
 }
 
-header .nav a, header .nav a:visited {
+header nav a, header nav a:visited {
   color: inherit;
 }
 
@@ -61,6 +65,7 @@ header .nav a, header .nav a:visited {
 
 #location img {
   max-width: 100%;
+  filter: drop-shadow(3px 3px 5px #222);
 }
 
 .two-col > div:first-child {
@@ -181,12 +186,8 @@ article img {
   filter: drop-shadow(3px 3px 5px #222);
 }
 
-article h2 {
-  text-align: center;
-}
-
 /* Desktop Browsers */
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 768px) {
   .two-col {
     display: flex;
     align-items: stretch;
@@ -217,10 +218,6 @@ article h2 {
     text-align: left;
   }
 
-  article p {
-    text-align: justify;
-  }
-
   article img {
     max-height: none;
     max-width: 50%;
@@ -228,6 +225,7 @@ article h2 {
 
   article section {
     clear: both;
+    overflow: hidden;
   }
 
   article img.right {
@@ -244,7 +242,7 @@ article h2 {
 }
 
 /* Mobile Browsers */
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 767px) {
   .mobile-hidden {
     display: none;
   }
@@ -256,6 +254,10 @@ article h2 {
 
   #sap-life h3 {
     margin-top: 1em;
+  }
+
+  article h2 {
+    text-align: center;
   }
 
   article img {
