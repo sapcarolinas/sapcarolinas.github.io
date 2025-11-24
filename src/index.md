@@ -67,7 +67,7 @@ all Sacraments according to the 1962 Roman Missal.
 ## News
 
 The New Saint Anthony's
-: The General Council of the SSPX has approved our plan to identify and purchase a property on which to build *The New Saint Anthony's*.
+: The General Council of the SSPX in Menzingen, Switzerland has approved our plan to identify and purchase a property on which to build *The New Saint Anthony's*.
   As you have likely noticed, our chapel is experiencing significant growth. Please pray for our success in locating a suitable
   property!
 
