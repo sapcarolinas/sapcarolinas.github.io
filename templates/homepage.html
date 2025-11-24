@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="$description$">
+  <meta property="og:url" content="$baseurl$/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="$site-title$">
+  <meta property="og:site_name" content="$site-title$">
+  <meta property="og:description" content="$tagline$">
+  <meta property="og:image" content="$baseurl$/$social-image$">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@$twitter$">
+  <meta property="twitter:url" content="$baseurl$/">
+  <meta name="twitter:title" content="$site-title$">
+  <meta name="twitter:description" content="$tagline$">
+  <meta name="twitter:image" content="$baseurl$/$social-image$">
+  <meta name="apple-mobile-web-app-title" content="$site-title-short$" />
+  <title>$site-title$</title>
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "$site-title$",
+    "alternateName": "$site-title-short$",
+    "url": "$baseurl$/"
+    }
+  </script>
+  <link rel="alternate" type="application/rss+xml" href="/$rss-feed$">
+  <link rel="canonical" href="$baseurl$/">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128">
+  <meta name="application-name" content="$site-title-short$">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="mstile-144x144.png">
+  <meta name="msapplication-square70x70logo" content="mstile-70x70.png">
+  <meta name="msapplication-square150x150logo" content="mstile-150x150.png">
+  <meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
+  <meta name="msapplication-square310x310logo" content="mstile-310x310.png">
+  <script src="https://kit.fontawesome.com/$fontawesome-id$.js" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=$google-analytics-id$"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '$google-analytics-id$');
+  </script>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+$if(quotes)$
+    q { quotes: "“" "”" "‘" "’"; }
+$endif$
+  </style>
+$if(highlighting-css)$
+  <style>
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body>
+$for(include-before)$
+$include-before$
+$endfor$
+<header>
+  <img src="header-large.svg" alt="$site-title$">
+  <p id="tagline">$tagline$</p>
+</header>
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+</body>
+</html>

@@ -1,0 +1,5 @@
+dist
+**/.bloglist.md
+*.pyc
+*.pyo
+*.swp

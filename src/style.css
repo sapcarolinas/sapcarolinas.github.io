@@ -37,6 +37,19 @@ img {
   user-select: none;
 }
 
+dl {
+  margin: 0;
+}
+
+dt {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+dd {
+  margin-left: 0em;
+}
+
 header img:first-of-type {
   width: 100%;
   border-bottom: 1px solid #000;
@@ -68,12 +81,12 @@ header nav a, header nav a:visited {
   filter: drop-shadow(3px 3px 5px #222);
 }
 
-.two-col > div:first-child {
+.split > div:first-child {
   padding-right: 1em;
 
 }
 
-.two-col > div {
+.split > div {
   box-sizing: border-box;
   flex: 50%;
 }
@@ -82,43 +95,61 @@ header nav a, header nav a:visited {
   margin-top: 0;
 }
 
-#mass-times h3 {
+.schedule {
+  margin-top: 0.5em;
+}
+
+.schedule tr td:first-child {
+  width: 5em;
+}
+
+.schedule h3 {
   margin-top: 0.5em;
   margin-bottom: 0;
 }
 
-#mass-times tr:first-of-type h3:first-of-type {
+.schedule tr:first-of-type h3:first-of-type {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-#mass-times td h3 {
+.schedule td h3 {
   text-align: left;
 }
 
-#mass-times td:first-child {
+.schedule td:first-child {
   padding-right: 1em;
   text-align: right;
 }
 
-.link-list {
+.action {
   font-family: Arial, sans-serif;
   font-weight: bold;
+  text-underline-position: under;
+  vertical-align: middle;
+  display: block;
+  margin: 1em 0 0 0 ;
+}
+
+.action span {
+  vertical-align: middle;
+}
+
+.action-list {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-underline-position: under;
+  vertical-align: middle;
   list-style-type: none;
   padding-left: 0;
-  text-underline-position: under;
+  margin: 1em 0;
 }
 
-.link-list i {
+.action-list i {
   padding-right: 0.3em;
-  vertical-align: middle;
 }
 
-.link-list span {
-  vertical-align: middle;
-}
-
-.link-list li + li {
+.action-list li + li {
   margin-top: 1em;
 }
 
@@ -182,13 +213,14 @@ header nav a, header nav a:visited {
   vertical-align: middle;
 }
 
+
 article img {
   filter: drop-shadow(3px 3px 5px #222);
 }
 
 /* Desktop Browsers */
 @media only screen and (min-width: 768px) {
-  .two-col {
+  .split {
     display: flex;
     align-items: stretch;
   }
