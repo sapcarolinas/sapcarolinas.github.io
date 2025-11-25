@@ -142,7 +142,7 @@ table.schedule {
 
 .schedule tr td:first-child {
   width: 5em;
-  padding-right: 1em;
+  padding-right: 0.5em;
   text-align: right;
 }
 
