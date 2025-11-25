@@ -61,7 +61,7 @@ all Sacraments according to the 1962 Roman Missal.
     </form>
   </div>
   <div>
-    <h2>Events</h2>
+    <h2>Calendar</h2>
     Something is always happening at Saint Anthony's. View our full schedule, or subscribe to our calendar:
     <ul class="action-list">
       <li><a class="action" title="Google Calendar" href="https://calendar.google.com/calendar/embed?src=saintanthonycommunications%40gmail.com&ctz=America%2FNew_York"><i class="fa-regular fa-calendar fa-xl"></i><span>View Chapel Schedule</span></a></li>
