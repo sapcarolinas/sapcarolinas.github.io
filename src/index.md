@@ -51,17 +51,22 @@ all Sacraments according to the 1962 Roman Missal.
 </div>
 
 <div class="split">
-  <div>
-  <h2>Subscribe!</h2>
+<div>
+  <h2>Mailing List</h2>
   To receive bulletins, chapel news, and announcements straight to your inbox:
-  <a class="action" title="Gaggle mailing list" href="https://gaggle.email/join/nsa@gaggle.email"><i class="fa-regular fa-envelope fa-xl"></i><span>Join our Mailing List</span></a>
+  <form method="post" action="https://gaggle.email/join/sap@gaggle.email">
+    <input name="name" type="text" placeholder="Name" required>
+    <input name="email" type="email" placeholder="Email Address" required>
+    <br>
+    <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
+  </form>
 </div>
 
 <div>
   <h2>Events</h2>
   Something is always happening at Saint Anthony's. Check out our full schedule:
   <a class="action" title="Google Calendar" href="https://calendar.google.com/calendar/embed?src=saintanthonycommunications%40gmail.com&ctz=America%2FNew_York"><i class="fa-regular fa-calendar fa-xl"></i><span>View our Google Calendar</span></a>
-  </div>
+</div>
 </div>
 
 ## News

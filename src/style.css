@@ -50,6 +50,34 @@ dd {
   margin-left: 0em;
 }
 
+form {
+  margin-top: 0.5em;
+}
+
+input {
+  padding: 0.5em;
+  margin: 0.25em 0;
+}
+
+button {
+  padding: 0.5em 1em;
+  margin: 0.5em 0;
+}
+
+input {
+  width: 100%;
+  max-width: 18em;
+  box-sizing: border-box;
+}
+
+input:focus {
+  outline-color: #0074D9;
+}
+
+input:user-invalid {
+  outline-color: #d8381b;
+}
+
 header img:first-of-type {
   width: 100%;
   border-bottom: 1px solid #000;
