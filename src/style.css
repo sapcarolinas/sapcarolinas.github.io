@@ -112,6 +112,10 @@ header nav a, header nav a:visited {
   text-decoration: none;
 }
 
+#location a:hover {
+  text-decoration: underline;
+}
+
 .split > div:first-child {
   padding-right: 1em;
 
@@ -166,6 +170,10 @@ header nav a, header nav a:visited {
   text-decoration: none;
 }
 
+.action a:hover {
+  text-decoration: underline;
+}
+
 .action span {
   vertical-align: middle;
 }
@@ -190,6 +198,10 @@ header nav a, header nav a:visited {
 
 .action-list a {
   text-decoration: none;
+}
+
+.action-list a:hover {
+  text-decoration: underline;
 }
 
 #sap-life {
