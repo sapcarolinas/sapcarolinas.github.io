@@ -69,7 +69,6 @@ all Sacraments according to the 1962 Roman Missal.
       <li><a class="action" title="Google Calendar" href="https://calendar.google.com/calendar/embed?src=saintanthonycommunications%40gmail.com&ctz=America%2FNew_York"><i class="fa-regular fa-calendar fa-xl"></i><span>View Chapel Schedule</span></a></li>
       <li><a title="Subscribe via Apple Calendar" href="webcal://calendar.google.com/calendar/ical/saintanthonycommunications%40gmail.com/public/basic.ics"><i class="fa-brands fa-apple fa-xl"></i>Add to Apple Calendar</a></li>
       <li><a title="Subscribe via Google Calendar" href="https://calendar.google.com/calendar?cid=c2FpbnRhbnRob255Y29tbXVuaWNhdGlvbnNAZ21haWwuY29t"><i class="fa-brands fa-google fa-xl"></i>Add to Google Calendar</a></li>
-      <li><a title="Subscribe via Google Calendar" href="https://blah"><i class="fa-brands fa-google fa-xl"></i>Add to Google Calendar</a></li>
     </ul>
   </div>
 </div>
