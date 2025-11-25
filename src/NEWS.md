@@ -17,7 +17,6 @@ Immaculate Conception: Holy Day of Obligation on December 8
     <tr><td>7:00 PM</td><td>Sung Mass</td></tr>
   </table>
 
-
 Christmas at Saint Anthony's
 : The liturgical season of Christmas begins on December 24 with sung Matins, Midnight
   Mass, and our annual Christmas celebration.
