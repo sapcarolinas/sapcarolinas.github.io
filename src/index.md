@@ -49,7 +49,6 @@ all Sacraments according to the 1962 Roman Missal.
     <a title="Find us on Google Maps" href="https://maps.app.goo.gl/oH9FD6qn2CoqQiAh9"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
   </div>
 </div>
-
 <div class="split">
 <div>
   <h2>Mailing List</h2>
@@ -61,7 +60,6 @@ all Sacraments according to the 1962 Roman Missal.
     <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
   </form>
 </div>
-
 <div>
   <h2>Events</h2>
   Something is always happening at Saint Anthony's. Check out our full schedule:
