@@ -14,7 +14,7 @@ all Sacraments according to the 1962 Roman Missal.
       <tr><td><h3>Saturday</h3></td></tr>
       <tr>
         <td>4:00 PM</td>
-        <td>Adoration *(First Saturdays)*</td>
+        <td>Adoration <em>(First Saturdays)</em></td>
       </tr>
       <tr>
         <td>4:15 PM</td>
