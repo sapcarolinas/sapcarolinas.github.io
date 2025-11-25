@@ -75,7 +75,7 @@ $(OUTPUT_DIR)/$(RSS_FEED): $(BLOG_POSTS) $(BLOG_RSS_SCRIPT)
 	$(BLOG_RSS_SCRIPT) --metadata-file=$(PANDOC_METADATA) --rss-feed=$(RSS_FEED) $(BLOG_DIR) > $@
 
 .PHONY: serve clean
-serve: $(OUTPUT_DIR)
+serve: build
 		cd $(OUTPUT_DIR) && python3 -m http.server
 
 clean:
