@@ -33,6 +33,8 @@ all Sacraments according to the 1962 Roman Missal.
         <td>8:00 AM</td>
         <td>Low Mass</td>
       </tr>
+    </table>
+    <table class="schedule">
       <tr>
         <td>9:15 AM</td>
         <td>Confessions</td>

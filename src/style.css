@@ -59,6 +59,9 @@ form {
 input {
   padding: 0.5em;
   margin: 0.25em 0;
+  width: 100%;
+  max-width: 20em;
+  box-sizing: border-box;
 }
 
 button {
@@ -66,18 +69,12 @@ button {
   margin: 0.5em 0 0 0;
 }
 
-input {
-  width: 100%;
-  max-width: 20em;
-  box-sizing: border-box;
-}
-
 input:focus {
-  outline-color: #0074D9;
+  outline-color: #7f4d3e;
 }
 
 input:user-invalid {
-  outline-color: #d8381b;
+  outline-color: #ed5e93;
 }
 
 header img:first-of-type {
