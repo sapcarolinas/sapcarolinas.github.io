@@ -131,31 +131,27 @@ header nav a, header nav a:visited {
   margin-top: 0;
 }
 
-.schedule {
+table.schedule {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.schedule table {
   margin-top: 0.5em;
 }
 
 .schedule tr td:first-child {
   width: 5em;
+  padding-right: 1em;
+  text-align: right;
 }
 
 .schedule h3 {
-  margin-top: 0.5em;
-  margin-bottom: 0;
+  margin: 0.75em 0 0 0.25em;
 }
 
-.schedule tr:first-of-type h3:first-of-type {
+.schedule h3+table {
   margin-top: 0;
-  margin-bottom: 0;
-}
-
-.schedule td h3 {
-  text-align: left;
-}
-
-.schedule td:first-child {
-  padding-right: 1em;
-  text-align: right;
 }
 
 .action {

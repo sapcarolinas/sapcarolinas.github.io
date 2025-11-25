@@ -8,10 +8,10 @@ Centrally located near Charlotte, NC, we offer the Traditional Latin Mass and
 all Sacraments according to the 1962 Roman Missal.
 
 <div class="split" id="banner">
-  <div id="mass-times">
-  <h2>Mass Times</h2>
-    <table class="schedule">
-      <tr><td><h3>Saturday</h3></td></tr>
+  <div id="mass-times" class="schedule">
+    <h2>Mass Times</h2>
+    <h3>Saturday</h3>
+    <table>
       <tr>
         <td>4:00 PM</td>
         <td>Adoration <em>(First Saturdays)</em></td>
@@ -24,7 +24,9 @@ all Sacraments according to the 1962 Roman Missal.
         <td>5:00 PM</td>
         <td>Low Mass</td>
       </tr>
-      <tr><td><h3>Sunday</h3></td></tr>
+    </table>
+    <h3>Sunday</h3>
+    <table>
       <tr>
         <td>7:30 AM</td>
         <td>Confessions</td>
@@ -34,7 +36,7 @@ all Sacraments according to the 1962 Roman Missal.
         <td>Low Mass</td>
       </tr>
     </table>
-    <table class="schedule">
+    <table>
       <tr>
         <td>9:15 AM</td>
         <td>Confessions</td>
