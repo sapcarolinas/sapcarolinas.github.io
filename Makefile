@@ -17,13 +17,15 @@ DEFAULT_TEMPLATE    = $(TEMPLATE_DIR)/default.html
 PANDOC_CONFIG       = pandoc.yml
 PANDOC_METADATA     = metadata.md
 RSS_FEED            = rss.xml
+BLOG_LIST_REPLACE   = __BLOG_LIST__
+NEWS_REPLACE        = __NEWS__
 BLOG_RSS_SCRIPT     = $(SCRIPT_DIR)/rss.py
 BLOG_LIST_SCRIPT    = $(SCRIPT_DIR)/bloglist.py
-BLOG_LIST_REPLACE   = __BLOG_LIST__
 BLOG_LIST_MARKDOWN  = .bloglist.md
+NEWS_MARKDOWN       = NEWS.md
 SOURCE_DIRS        := $(shell $(FIND) $(SOURCE_DIR) -mindepth 1 -type d)
 SOURCE_BLOG_LIST    = $(BLOG_DIR)/index.md
-SOURCE_MARKDOWN    := $(shell $(FIND) $(SOURCE_DIR) -type f -name '*.md' -and ! -name $(BLOG_LIST_MARKDOWN))
+SOURCE_MARKDOWN    := $(shell $(FIND) $(SOURCE_DIR) -type f -name '*.md' -and ! -name $(BLOG_LIST_MARKDOWN) -and ! -name $(NEWS_MARKDOWN))
 SOURCE_STATIC      := $(shell $(FIND) $(SOURCE_DIR) -type f -regextype posix-extended -iregex '$(STATIC_REGEX)')
 BLOG_POSTS         := $(shell $(FIND) $(BLOG_DIR) -type f	-name '*.md' -and ! -name $(BLOG_LIST_MARKDOWN) -and ! -path $(SOURCE_BLOG_LIST))
 OUTPUT_DIRS        := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(SOURCE_DIRS))
@@ -31,7 +33,7 @@ OUTPUT_MARKDOWN    := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(patsubst %.
 OUTPUT_STATIC      := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(SOURCE_STATIC))
 
 CP                  = cp -p
-INSERT_BLOG_LIST    = sed -e '/$(BLOG_LIST_REPLACE)/{r $(1)' -e 'd;}'
+INTERPOLATE         = sed -e '/$(1)/{r $(2)' -e 'd;}'
 PANDOC              = pandoc --defaults=$(PANDOC_CONFIG) --template=$(TEMPLATE_DIR)/$(1) --output=$(2) --metadata=rss-feed:$(RSS_FEED) $(PANDOC_METADATA) -
 
 # Default target: convert .md to .html, copy static assets, and generate RSS
@@ -45,8 +47,8 @@ $(OUTPUT_DIRS):
 	mkdir -p $@
 
 # Homepage (/)
-$(OUTPUT_DIR)/index.html: $(SOURCE_DIR)/index.md $(SOURCE_DIR)/$(BLOG_LIST_MARKDOWN) $(TEMPLATE_DIR)/homepage.html $(PANDOC_CONFIG) $(PANDOC_METADATA)
-	  $(call INSERT_BLOG_LIST,$(SOURCE_DIR)/$(BLOG_LIST_MARKDOWN)) $< | $(call PANDOC,homepage.html,$@)
+$(OUTPUT_DIR)/index.html: $(SOURCE_DIR)/index.md $(SOURCE_DIR)/$(NEWS_MARKDOWN) $(TEMPLATE_DIR)/homepage.html $(PANDOC_CONFIG) $(PANDOC_METADATA)
+	  $(call INTERPOLATE,$(NEWS_REPLACE),$(SOURCE_DIR)/$(NEWS_MARKDOWN)) $< | $(call PANDOC,homepage.html,$@)
 
 # Markdown list of 5 most recent blog posts
 $(SOURCE_DIR)/.bloglist.md: $(BLOG_POSTS) $(BLOG_LIST_SCRIPT)
