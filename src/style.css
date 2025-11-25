@@ -10,15 +10,15 @@ body {
 }
 
 a {
-  color: #7f4d3e;
+  color: #336699;
+  text-underline-offset: 2px;
 }
 
 a:visited {
-  color: #887177;
+  color: #5583b8;
 }
 
 a, a:link, a:active, a:visited {
-  text-decoration: none;
 }
 
 a:hover {
@@ -70,11 +70,11 @@ button {
 }
 
 input:focus {
-  outline-color: #7f4d3e;
+  outline-color: #336699;
 }
 
 input:user-invalid {
-  outline-color: #ed5e93;
+  outline-color: #cc7f97;
 }
 
 header img:first-of-type {
@@ -106,6 +106,10 @@ header nav a, header nav a:visited {
 #location img {
   max-width: 100%;
   filter: drop-shadow(3px 3px 5px #222);
+}
+
+#location a {
+  text-decoration: none;
 }
 
 .split > div:first-child {
@@ -158,6 +162,10 @@ header nav a, header nav a:visited {
   margin: 1em 0 0 0 ;
 }
 
+.action a {
+  text-decoration: none;
+}
+
 .action span {
   vertical-align: middle;
 }
@@ -178,6 +186,10 @@ header nav a, header nav a:visited {
 
 .action-list li + li {
   margin-top: 1em;
+}
+
+.action-list a {
+  text-decoration: none;
 }
 
 #sap-life {
@@ -223,6 +235,7 @@ header nav a, header nav a:visited {
   white-space: nowrap;
   box-sizing: border-box;
   width: 10em;
+  text-decoration: none;
 }
 
 .social-buttons a:hover {
