@@ -83,6 +83,7 @@ For pictures and videos of Catholic life at Saint Anthony's, follow us on social
   <li><a title="Instagram" href="https://www.instagram.com/sapcarolinas/"><i class="fa-brands fa-instagram fa-xl"></i><span>SAPCarolinas</span></a></li>
   <li><a title="Facebook" href="https://www.facebook.com/SAPCarolinas"><i class="fa-brands fa-facebook fa-xl"></i><span>SAPCarolinas</span></a></li>
   <li><a title="X/Twitter" href="https://x.com/SAPCarolinas"><i class="fa-brands fa-x-twitter fa-xl"></i><span>SAPCarolinas</a></span></li>
+  <li><a title="Substack" href="https://sapcarolinas.substack.com/"><i class="fa-regular fa-newspaper fa-xl"></i><span>Substack</a></span></li>
 </ul>
 
 ## Giving
