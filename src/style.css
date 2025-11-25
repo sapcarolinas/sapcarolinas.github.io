@@ -70,7 +70,7 @@ button {
 }
 
 input:focus {
-  outline-color: #336699;
+  outline-color: #5583b8;
 }
 
 input:user-invalid {
