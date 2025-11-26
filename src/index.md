@@ -53,7 +53,10 @@ all Sacraments according to the 1962 Roman Missal.
   </div>
 </div>
 
-## News
+<div class="news-header">
+  <h2>News</h2>
+  <a class="action" title="Chapel Bulletins" href="https://drive.google.com/drive/folders/1vKq3X6FmSVdF__Pqxj4uayDPYXcv-aAt"><i class="fa-regular fa-file-lines fa-xl"></i><span>Bulletins</span></a>
+</div>
 
 __NEWS__
 
