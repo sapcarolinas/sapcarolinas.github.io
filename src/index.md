@@ -28,7 +28,7 @@ all Sacraments according to the 1962 Roman Missal.
   <div id="location">
     <img src="church.jpg">
     <br>
-    <a title="Find us on Google Maps" href="https://maps.app.goo.gl/oH9FD6qn2CoqQiAh9"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
+    <a title="Find us on Google Maps" href="https://maps.google.com/maps?cid=5945644234549736924"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
   </div>
 </div>
 <div class="split">
