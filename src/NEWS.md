@@ -13,7 +13,7 @@ Nocturnal Adoration
 Holy Day of Obligation
 : Holy Mass will be offered on Monday, December 8 for the feast of Our Lady's Immaculate Conception:
   <table class="schedule">
-    <tr><td>6:00 PM</td><td>Confession</td></tr>
+    <tr><td>6:00 PM</td><td>Confessions</td></tr>
     <tr><td>7:00 PM</td><td>Sung Mass</td></tr>
   </table>
 
