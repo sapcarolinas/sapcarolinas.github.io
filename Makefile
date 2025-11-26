@@ -34,7 +34,15 @@ OUTPUT_STATIC      := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(SOURCE_STAT
 
 CP                  = cp -p
 INTERPOLATE         = sed -e '/$(1)/{r $(2)' -e 'd;}'
-PANDOC              = pandoc --defaults=$(PANDOC_CONFIG) --template=$(TEMPLATE_DIR)/$(1) --output=$(2) --metadata=rss-feed:$(RSS_FEED) $(PANDOC_METADATA) -
+RELPATH             = $(shell $(SCRIPT_DIR)/relpath.py $(OUTPUT_DIR) "$(1)")
+PANDOC              = pandoc \
+											  --defaults=$(PANDOC_CONFIG) \
+												--template="$(TEMPLATE_DIR)/$(1)" \
+												--metadata=rss-feed:$(RSS_FEED) \
+												--metadata="relpath:$(call RELPATH,$(2))" \
+												--output="$(2)" \
+												$(PANDOC_METADATA) \
+												-
 
 # Default target: convert .md to .html, copy static assets, and generate RSS
 build: \
