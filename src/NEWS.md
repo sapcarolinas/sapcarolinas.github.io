@@ -10,12 +10,16 @@ Nocturnal Adoration on December 6
   [Sign up for your holy hour](https://www.signupgenius.com/go/10C0B45ADA62BA1F5C07-49683297-nocturnal#/)
   with Our Lord in the Blessed Sacrament. Adoration ends with Benediction at 7:00 AM.
 
-Immaculate Conception: Holy Day of Obligation on December 8
+Holy Day of Obligation on December 8
 : Monday, December 8, the feast of the Immaculate Conception, is a Holy Day of Obligation.
   <table class="schedule">
     <tr><td>6:00 PM</td><td>Confession</td></tr>
     <tr><td>7:00 PM</td><td>Sung Mass</td></tr>
   </table>
+
+Our Lady of Guadalupe Celebration
+: Come celebrate Our Lady of Guadalupe on Sunday, December 14 at 12:30 PM.
+  Bring your own picnic lunch. Piñata fun will be provided for the children.
 
 Christmas at Saint Anthony's
 : The liturgical season of Christmas begins on December 24 with sung Matins, Midnight
