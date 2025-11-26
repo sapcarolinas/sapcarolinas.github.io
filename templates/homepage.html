@@ -50,6 +50,20 @@
           "postalCode": "$location-zip$",
           "addressCountry": "$location-country$"
         },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Saturday"],
+            "opens": "$saturday-open$",
+            "closes": "$saturday-close$"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Sunday"],
+            "opens": "$sunday-open$",
+            "closes": "$sunday-close$"
+          }
+        ],
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": "$location-lat$",

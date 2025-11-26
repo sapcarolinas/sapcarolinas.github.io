@@ -20,6 +20,11 @@ location-lat: 35.35527238219267
 location-lon: -80.97577772023882
 location-image: church.jpg
 
+saturday-open:  '16:00'
+saturday-close: '18:30'
+sunday-open:    '07:00'
+sunday-close:   '13:00'
+
 twitter: SAPCarolinas
 facebook: SAPCarolinas
 instagram: sapcarolinas
