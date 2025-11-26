@@ -60,6 +60,12 @@ all Sacraments according to the 1962 Roman Missal.
 
 __NEWS__
 
+## Chapel Registration
+
+To become a member of Saint Anthony's, complete our registration form:
+
+<a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
+
 ## Follow Us
 
 For pictures and videos of Catholic life at Saint Anthony's, follow us on social media:
