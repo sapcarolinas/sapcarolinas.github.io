@@ -90,6 +90,11 @@ header h1 {
 
 header nav a, header nav a:visited {
   color: inherit;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
 }
 
 #tagline {

@@ -4,64 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="$description$">
-  <meta property="og:url" content="$baseurl$/">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="$site-title$">
+  <meta property="og:url" content="$baseurl$/TODO">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="$title$">
   <meta property="og:site_name" content="$site-title$">
-  <meta property="og:description" content="$tagline$">
-  <meta property="og:image" content="$baseurl$/$logo$">
+  <meta property="og:description" content="$description$">
+  <meta property="og:image" content="$baseurl$/$social-image$">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@$twitter$">
-  <meta name="apple-mobile-web-app-title" content="$site-title-short$">
-  <title>$site-title$</title>
+  <title>$title$ | $site-title$</title>
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@graph":
-    [
-      {
-        "@type": "LocalBusiness",
-        "@id": "/#org",
-        "url": "$baseurl$/",
-        "logo": "$baseurl$/$logo$",
-        "image": "$baseurl$/$location-image$",
-        "name": "$site-title$",
-        "description": "$tagline$",
-        "email": "$contact-email$",
-        "telephone": "$contact-phone$",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "$location-street$",
-          "addressLocality": "$location-city$",
-          "addressRegion": "$location-state$",
-          "postalCode": "$location-zip$",
-          "addressCountry": "$location-country$",
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "$location-lat$",
-          "longitude": "$location-lon$"
-        },
-        "hasMap": "https://maps.google.com/maps?cid=$google-maps-cid$",
-        "sameAs": [
-          "https://x.com/$twitter$",
-          "https://www.facebook.com/$facebook$",
-          "https://www.instagram.com/$instagram$",
-          "https://$substack$.substack.com/"
-        ]
-      }, {
-        "@type": "WebSite",
-        "@id": "/#website",
-        "publisher": {"@id": "/#org"},
-        "name": "$site-title$",
-        "alternateName": "$site-title-short$",
-        "url": "$baseurl$/"
-      }
-    ]
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "publisher": {"@id": "/#org"},
+  "name": "$title$",
+  "url": "$baseurl$/TODO"
   }
   </script>
   <link rel="alternate" type="application/rss+xml" href="/$rss-feed$">
-  <link rel="canonical" href="$baseurl$/">
+  <link rel="canonical" href="$baseurl$/TODO">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="manifest" href="/site.webmanifest">
@@ -119,8 +81,15 @@ $for(include-before)$
 $include-before$
 $endfor$
 <header>
-  <img src="header-large.svg" alt="$site-title$">
-  <p id="tagline">$tagline$</p>
+  <img src="/header-small.svg" alt="$site-title$"></a>
+  <nav>
+  <a class="nav" title="Back to home" href="/"><i class="fa-solid fa-angle-left"></i>Home</a>
+  </nav>
+$if(heading)$
+  <h1 class="title">$heading$</h1>
+$else$
+  <h1 class="title">$title$</h1>
+$endif$
 </header>
 $body$
 $for(include-after)$

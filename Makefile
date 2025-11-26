@@ -64,7 +64,7 @@ $(SOURCE_DIR)/blog/.bloglist.md: $(BLOG_POSTS) $(BLOG_LIST_SCRIPT)
 
 # Convert all other .md files to .html
 $(OUTPUT_DIR)/%.html: $(SOURCE_DIR)/%.md $(DEFAULT_TEMPLATE) $(PANDOC_CONFIG) $(PANDOC_METADATA)
-		$(call PANDOC,default.html,$@) $<
+		$(call PANDOC,default.html,$@) < $<
 
 # Catch-all: copy static assets in $(SOURCE_DIR)/ to $(OUTPUT_DIR)/
 $(OUTPUT_DIR)/%: $(SOURCE_DIR)/%

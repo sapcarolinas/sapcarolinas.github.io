@@ -2,6 +2,6 @@ from: markdown+fenced_divs+bracketed_spans+smart-markdown_in_html_blocks
 to: html5
 standalone: true
 html-q-tags: true
-wrap: none
+wrap: preserve
 css:
   - /style.css

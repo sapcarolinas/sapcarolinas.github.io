@@ -1,11 +1,31 @@
 ---
 baseurl: https://www.saintanthonys.com
-site-title: Saint Anthony of Padua
+site-title: Saint Anthony of Padua Catholic Church
 site-title-short: Saint Anthony's
 tagline: The fullness of Catholic life in the Carolinas.
-twitter: sapcarolinas
-fontawesome-id: 7f33531bec
-google-analytics-id: G-3BSSK9RCSH
+
 feed: feed.xml
+logo: logo.png
 social-image: logo.png
+
+contact-email: communications@saintanthonys.com
+contact-phone: "+1-704-827-8676"
+
+location-street: 108 Horseshoe Bend Beach Road
+location-city: Mount Holly
+location-state: NC
+location-zip: 28120
+location-country: US
+location-lat: 35.35527238219267
+location-lon: -80.97577772023882
+location-image: church.jpg
+
+twitter: SAPCarolinas
+facebook: SAPCarolinas
+instagram: sapcarolinas
+substack: sapcarolinas
+
+google-maps-cid: 5945644234549736924
+google-analytics-id: G-3BSSK9RCSH
+fontawesome-id: 7f33531bec
 ---
