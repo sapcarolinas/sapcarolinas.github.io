@@ -4,14 +4,14 @@ The New Saint Anthony's
   you have likely noticed, our chapel is experiencing significant growth. Please pray
   for our success in locating a suitable property!
 
-Nocturnal Adoration on December 6
+Nocturnal Adoration
 : The Holy Name Society is sponsoring all-night Adoration beginning Saturday, December 6
   at 8:00 PM.
   [Sign up for your holy hour](https://www.signupgenius.com/go/10C0B45ADA62BA1F5C07-49683297-nocturnal#/)
   with Our Lord in the Blessed Sacrament. Adoration ends with Benediction at 7:00 AM.
 
-Holy Day of Obligation on December 8
-: Monday, December 8, the feast of the Immaculate Conception, is a Holy Day of Obligation.
+Holy Day of Obligation
+: Holy Mass will be offered on Monday, December 8 for the feast of Our Lady's Immaculate Conception:
   <table class="schedule">
     <tr><td>6:00 PM</td><td>Confession</td></tr>
     <tr><td>7:00 PM</td><td>Sung Mass</td></tr>
