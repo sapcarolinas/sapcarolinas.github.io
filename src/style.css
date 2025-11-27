@@ -284,11 +284,11 @@ article img {
   filter: drop-shadow(3px 3px 5px #222);
 }
 
-.footer {
+footer {
   margin-top: 3em;
 }
 
-.footer img.shield {
+footer img.shield {
   vertical-align: middle;
   height: 1.5em;
   margin-right: 0.5em;
