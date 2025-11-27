@@ -90,3 +90,7 @@ You can [donate to Saint Anthony's](https://www.paypal.com/donate/?hosted_button
   <li><a title="Visit our official SSPX website" href="https://fsspx.today/chapel/nc-charlotte/info/"><i class="fa-solid fa-globe fa-lg"></i>SSPX Chapel Homepage</a></li>
   <li><a title="Call the chapel" href="tel:+17048278676"><i class="fa-solid fa-phone fa-lg"></i>(704) 827-8676</a></li>
 </ul>
+
+:::{.footer}
+<img class="shield" src="/hns-tiny.png">Made by the Saint Anthony's Holy Name Society. [*Benedictus Deus! Benedictum Nomen Sanctum ejus.*]{.mobile-hidden}
+:::

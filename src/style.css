@@ -284,6 +284,16 @@ article img {
   filter: drop-shadow(3px 3px 5px #222);
 }
 
+.footer {
+  margin-top: 3em;
+}
+
+.footer img.shield {
+  vertical-align: middle;
+  height: 1.5em;
+  margin-right: 0.5em;
+}
+
 /* Desktop Browsers */
 @media only screen and (min-width: 768px) {
   .split {
