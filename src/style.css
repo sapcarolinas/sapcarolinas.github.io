@@ -96,11 +96,6 @@ header h1 {
   margin-bottom: 1em;
 }
 
-header hr {
-  margin: 0;
-  background-color: #111;
-}
-
 #tagline {
   text-align: center;
   font-style: italic;
@@ -295,6 +290,7 @@ nav ul {
   flex-wrap: wrap;
   width: 100%;
   justify-content: space-evenly;
+  border-bottom: solid #111 1px;
 }
 
 nav ul li {
@@ -414,6 +410,6 @@ footer img.shield {
   }
 
   nav ul li a {
-    padding: 0.25em 0;
+    padding: 0.25em 1em;
   }
 }
