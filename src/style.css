@@ -33,6 +33,11 @@ h2 {
   margin-bottom: 0.5em;
 }
 
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+}
+
 p {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -93,7 +98,7 @@ header img:first-of-type {
 
 header h1 {
   text-align: center;
-  margin-bottom: 1em;
+  margin: 1em 0 ;
 }
 
 #tagline {
@@ -204,26 +209,6 @@ table.schedule {
   text-decoration: underline;
 }
 
-#sap-life {
-  text-align: center;
-}
-
-#sap-life h2 {
-  font-weight: normal;
-  font-style: italic;
-}
-
-#sap-life h3 {
-  font-style: italic;
-  margin-bottom: 0.25em;
-}
-
-#sap-life ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
 .social-buttons {
   font-family: Arial, sans-serif;
   font-weight: bold;
@@ -323,6 +308,11 @@ footer img.shield {
   margin-right: 0.5em;
 }
 
+article img {
+  margin-bottom: 1em;
+}
+
+
 /* Desktop Browsers */
 @media only screen and (min-width: 768px) {
   .split {
@@ -357,11 +347,14 @@ footer img.shield {
 
   article h2 {
     text-align: left;
+    clear: both;
   }
 
   article img {
     max-height: none;
-    max-width: 50%;
+    max-width: 38%;
+    margin-right: 1.5em;
+    float: left;
   }
 
   article section {
@@ -370,15 +363,10 @@ footer img.shield {
   }
 
   article img.right {
+    margin-right: 0;
     margin-left: 1.5em;
-    margin-bottom: 1em;
     float: right;
-  }
-
-  article img.left {
-    margin-right: 1.5em;
-    margin-bottom: 1em;
-    float: left;
+    clear: both;
   }
 }
 
@@ -393,20 +381,15 @@ footer img.shield {
     margin-top: 1em;
   }
 
-  #sap-life h3 {
-    margin-top: 1em;
-  }
-
   article h2 {
     text-align: center;
   }
 
   article img {
-    max-height: 18em;
+    max-height: 13em;
     max-width: 95%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1em auto;
   }
 
   nav ul li a {

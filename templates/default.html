@@ -94,17 +94,29 @@ $for(include-before)$
 $include-before$
 $endfor$
 <header>
-  <img src="/header-small.svg" alt="$site-title$"></a>
+  <a href="/"><img src="/header-small.svg" alt="$site-title$"></a>
+  <!---
   <nav>
-  <a class="nav" title="Back to home" href="/"><i class="fa-solid fa-angle-left"></i>Home</a>
+    <ul>
+      <li><a href="#"><strong>The New Saint Anthony’s</strong></a></li>
+      <li><a href="#">Sacraments</a></li>
+      <li><a href="#">Catechism</a></li>
+      <li><a href="/apostolates/">Apostolates</a></li>
+      <li><a href="#">Events</a></li>
+      <li><a href="#">FAQ</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
   </nav>
+  --->
 $if(heading)$
   <h1 class="title">$heading$</h1>
 $else$
   <h1 class="title">$title$</h1>
 $endif$
 </header>
+<article>
 $body$
+</article>
 $for(include-after)$
 $include-after$
 $endfor$

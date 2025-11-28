@@ -12,10 +12,20 @@ Nocturnal Adoration
 
 Holy Day of Obligation
 : Holy Mass will be offered on Monday, December 8 for the feast of Our Lady's Immaculate Conception:
-  <table class="schedule">
-    <tr><td>6:00 PM</td><td>Confessions</td></tr>
+  <div class="split schedule">
+  <div>
+  <table>
+    <tr><td>9:30 AM</td><td>Confessions</td></tr>
+    <tr><td>10:00 AM</td><td>Low Mass</td></tr>
+  </table>
+  </div>
+  <div>
+  <table>
+    <tr><td>6:15 PM</td><td>Confessions</td></tr>
     <tr><td>7:00 PM</td><td>Sung Mass</td></tr>
   </table>
+  </div>
+  </div>
 
 Our Lady of Guadalupe Celebration
 : Come celebrate Our Lady of Guadalupe on Sunday, December 14 at 12:30 PM.
