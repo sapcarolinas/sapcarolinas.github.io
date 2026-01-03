@@ -19,7 +19,7 @@
   <meta name="description" content="$description$">
   <meta property="og:url" content="$baseurl$/$relpath$">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="$title$">
+  <meta property="og:title" content="$title$ | $site-title$">
   <meta property="og:site_name" content="$site-title$">
   <meta property="og:description" content="$description$">
   <meta property="og:image" content="$baseurl$/$social-image$">
@@ -35,7 +35,6 @@
   "url": "$baseurl$/$relpath$"
   }
   </script>
-  <link rel="alternate" type="application/rss+xml" href="/$rss-feed$">
   <link rel="canonical" href="$baseurl$/$relpath$">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="shortcut icon" href="/favicon.ico">
@@ -54,13 +53,15 @@
   <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128">
   <meta name="application-name" content="$site-title-short$">
-  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="theme-color" content="#e5d8cb">
+  <meta name="msapplication-TileColor" content="#e5d8cb">
   <meta name="msapplication-TileImage" content="mstile-144x144.png">
   <meta name="msapplication-square70x70logo" content="mstile-70x70.png">
   <meta name="msapplication-square150x150logo" content="mstile-150x150.png">
   <meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
   <meta name="msapplication-square310x310logo" content="mstile-310x310.png">
   <script src="https://kit.fontawesome.com/$fontawesome-id$.js" crossorigin="anonymous"></script>
+  <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=$google-analytics-id$"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -93,30 +94,35 @@ $endfor$
 $for(include-before)$
 $include-before$
 $endfor$
-<header>
-  <a href="/"><img src="/header-small.svg" alt="$site-title$"></a>
-  <!---
+<header $if(noheading)$class="noheading"$endif$>
+  <a href="/"><img class="logo" src="/header.svg" alt="$site-title$"></a>
   <nav>
     <ul>
-      <li><a href="#"><strong>The New Saint Anthony’s</strong></a></li>
-      <li><a href="#">Sacraments</a></li>
-      <li><a href="#">Catechism</a></li>
-      <li><a href="/apostolates/">Apostolates</a></li>
-      <li><a href="#">Events</a></li>
-      <li><a href="#">FAQ</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="/">Home</a></li>
+      <li><a class="${if(nsa)}active${endif}" href="/nsa/">The New Saint Anthony’s</a></li>
+      <li><a class="${if(news)}active${endif}" href="/news/">News</a></li>
+      <li><a class="${if(catechism)}active${endif}" href="/catechism/">Catechism</a></li>
+      <li><a class="${if(apostolates)}active${endif}" href="/apostolates/">Apostolates</a></li>
+      <li><a class="${if(faq)}active${endif}" href="/faq/">FAQ</a></li>
+      <li><a class="${if(about)}active${endif}" href="/about/">About</a></li>
+      <li><a class="${if(donate)}active${endif}" href="/donate/"><strong>Donate</strong></a></li>
     </ul>
   </nav>
-  --->
+$if(noheading)$
+$else$
 $if(heading)$
   <h1 class="title">$heading$</h1>
 $else$
   <h1 class="title">$title$</h1>
 $endif$
+$endif$
 </header>
 <article>
 $body$
 </article>
+<footer>
+  <img class="shield" src="/hns-tiny.png"><em><span class="mobile-hidden">Benedictus Deus! </span>Benedictum Nomen Sanctum ejus.</em>
+</footer>
 $for(include-after)$
 $include-after$
 $endfor$

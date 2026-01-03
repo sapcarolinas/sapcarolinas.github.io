@@ -1,4 +1,4 @@
-from: markdown+fenced_divs+bracketed_spans+smart-markdown_in_html_blocks
+from: markdown+fenced_divs+bracketed_spans+smart-markdown_in_html_blocks-native_divs-native_spans+raw_html
 to: html5
 standalone: true
 html-q-tags: true

@@ -22,7 +22,7 @@
   <meta property="og:title" content="$site-title$">
   <meta property="og:site_name" content="$site-title$">
   <meta property="og:description" content="$tagline$">
-  <meta property="og:image" content="$baseurl$/$logo$">
+  <meta property="og:image" content="$baseurl$/$social-image$">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@$twitter$">
   <meta name="apple-mobile-web-app-title" content="$site-title-short$">
@@ -88,7 +88,6 @@
     ]
   }
   </script>
-  <link rel="alternate" type="application/rss+xml" href="/$rss-feed$">
   <link rel="canonical" href="$baseurl$/">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="shortcut icon" href="/favicon.ico">
@@ -106,14 +105,16 @@
   <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128">
+  <meta name="theme-color" content="#e5d8cb">
   <meta name="application-name" content="$site-title-short$">
-  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileColor" content="#e5d8cb">
   <meta name="msapplication-TileImage" content="mstile-144x144.png">
   <meta name="msapplication-square70x70logo" content="mstile-70x70.png">
   <meta name="msapplication-square150x150logo" content="mstile-150x150.png">
   <meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
   <meta name="msapplication-square310x310logo" content="mstile-310x310.png">
   <script src="https://kit.fontawesome.com/$fontawesome-id$.js" crossorigin="anonymous"></script>
+  <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=$google-analytics-id$"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -147,26 +148,27 @@ $for(include-before)$
 $include-before$
 $endfor$
 <header>
-  <img src="header-large.svg" alt="$site-title$">
-  <!---
+  <a href="#"><img class="logo" src="header.svg" alt="$site-title$"></a>
   <nav>
     <ul>
-      <li><a href="#"><strong>The New Saint Anthony’s</strong></a></li>
-      <li><a href="#">Sacraments</a></li>
-      <li><a href="#">Catechism</a></li>
+      <li><a class="active" href="/">Home</a></li>
+      <li><a class="${if(nsa)}active${endif}" href="/nsa/">The New Saint Anthony’s</a></li>
+      <li><a href="/news/">News</a></li>
+      <li><a href="/catechism/">Catechism</a></li>
       <li><a href="/apostolates/">Apostolates</a></li>
-      <li><a href="#">Events</a></li>
-      <li><a href="#">FAQ</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="/faq/">FAQ</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a class="${if(donate)}active${endif}" href="/donate/"><strong>Donate</strong></a></li>
     </ul>
   </nav>
-  --->
   <p id="tagline">$tagline$</p>
 </header>
+<article>
 $body$
+</article>
 <footer>
-  <img class="shield" src="/hns-tiny.png">Made by the Saint Anthony's Holy Name Society.<span class="mobile-hidden"> <em>Benedictus Deus! Benedictum Nomen Sanctum ejus.</em></span>
-<footer>
+  <img class="shield" src="/hns-tiny.png"><em><span class="mobile-hidden">Benedictus Deus! </span>Benedictum Nomen Sanctum ejus.</em>
+</footer>
 $for(include-after)$
 $include-after$
 $endfor$

@@ -1,12 +1,24 @@
 ---
 description: Saint Anthony's is a traditional Catholic church in the Charlotte area served by the SSPX.
+social-image: church.jpg
 ---
 
 Saint Anthony's is a Catholic chapel served by the [Society of Saint Pius X](https://sspx.org/en).
 Centrally located near Charlotte, NC, we offer the Traditional Latin Mass and all
-Sacraments according to the 1962 Roman Missal.
+Sacraments according to the traditional Roman Rite.
 
-<div class="split" id="banner">
+## Building Project<a href="/nsa/"><img alt="The New Saint Anthony's" class="right nsa" src="/nsa/nsa.png"></a>
+
+In recent years, our chapel has experienced significant growth.
+
+The SSPX General Council has approved our plan to purchase a property
+on which to build a new church complex.
+
+Help us build a new home for Tradition in the Carolinas!
+
+<a class="action" title="Learn more about the New Saint Anthony's" href="/nsa/"><i class="fa-solid fa-church fa-xl"></i><span>Learn more</span></a>
+
+<div class="split2" id="banner">
   <div id="mass-times" class="schedule">
     <h2>Mass Times</h2>
     <h3>Saturday</h3>
@@ -31,40 +43,30 @@ Sacraments according to the 1962 Roman Missal.
     <a title="Find us on Google Maps" href="https://maps.google.com/maps?cid=5945644234549736924"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
   </div>
 </div>
-<div class="split">
+<h2>Upcoming Schedule</h2>
+<div class="schedule">
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showTitle=0&showDate=0&showNav=0&showPrint=0&title=Upcoming%20Schedule&showCalendars=0&showTz=0&showTabs=0&mode=AGENDA&src=Y2FsZW5kYXJAc2FpbnRhbnRob255cy5jb20&color=%23336699" style="border-width:0" frameborder="0" scrolling="no"></iframe>
+</div>
+<ul class="action-list horizontal">
+  <li><a title="Subscribe via Apple Calendar" href="webcal://calendar.google.com/calendar/ical/calendar%40saintanthonys.com/public/basic.ics"><i class="fa-brands fa-apple fa-xl"></i>Add to Apple Calendar</a></li>
+  <li><a title="Subscribe via Google Calendar" href="https://calendar.google.com/calendar?cid=Y2FsZW5kYXJAc2FpbnRhbnRob255cy5jb20"><i class="fa-brands fa-google fa-xl"></i>Add to Google Calendar</a></li>
+</ul>
+<div class="split2">
   <div>
     <h2>Mailing List</h2>
     To receive bulletins, chapel news, and announcements straight to your inbox:
     <form method="post" action="https://gaggle.email/join/sap@gaggle.email">
-      <input name="name" type="text" placeholder="Name" required/>
-      <input name="email" type="email" placeholder="Email Address" required/>
-      <br/>
+      <input name="name" type="text" placeholder="Your Name" title="First and last name" pattern="[^\s]+\s+[^\s]+.*" autocomplete="name" required/><br/>
+      <input name="email" type="email" placeholder="you@example.com" title="Email address" autocomplete="email" required/></br>
       <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
     </form>
   </div>
   <div>
-    <h2>Calendar</h2>
-    Something is always happening at Saint Anthony's. View our full schedule, or subscribe to our calendar:
-    <ul class="action-list">
-      <li><a class="action" title="Google Calendar" href="https://calendar.google.com/calendar/embed?src=saintanthonycommunications%40gmail.com&ctz=America%2FNew_York"><i class="fa-regular fa-calendar fa-xl"></i><span>View Chapel Schedule</span></a></li>
-      <li><a title="Subscribe via Apple Calendar" href="webcal://calendar.google.com/calendar/ical/saintanthonycommunications%40gmail.com/public/basic.ics"><i class="fa-brands fa-apple fa-xl"></i>Add to Apple Calendar</a></li>
-      <li><a title="Subscribe via Google Calendar" href="https://calendar.google.com/calendar?cid=c2FpbnRhbnRob255Y29tbXVuaWNhdGlvbnNAZ21haWwuY29t"><i class="fa-brands fa-google fa-xl"></i>Add to Google Calendar</a></li>
-    </ul>
+    <h2>Chapel Registration</h2>
+    <p>If you attend Saint Anthony’s regularly, make sure to complete our registration form:
+    <a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
   </div>
 </div>
-
-<div class="news-header">
-  <h2>News</h2>
-  <a class="action" title="Chapel Bulletins" href="https://drive.google.com/drive/folders/1vKq3X6FmSVdF__Pqxj4uayDPYXcv-aAt"><i class="fa-regular fa-file-lines fa-xl"></i><span>Bulletins</span></a>
-</div>
-
-__NEWS__
-
-## Chapel Registration
-
-To become a member of Saint Anthony's, complete our registration form:
-
-<a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
 
 ## Follow Us
 
@@ -78,15 +80,11 @@ For pictures and videos of Catholic life at Saint Anthony's, follow us on social
 <!--  <li><a title="Substack" href="https://sapcarolinas.substack.com/"><i class="fa-regular fa-newspaper fa-xl"></i><span>Substack</a></span></li> -->
 </ul>
 
-## Giving
-
-You can [donate to Saint Anthony's](https://www.paypal.com/donate/?hosted_button_id=376XR694NLM5N "donate via PayPal") using PayPal. Thank you for your generosity!
-
 ## Contact Us 
 
 <ul class="action-list">
   <li><a title="Chat with us on Facebook Messenger" href="https://m.me/sapcarolinas"><i class="fa-regular fa-message fa-lg"></i>Facebook Messenger</a></li>
   <li><a title="Email our Communications Team" href="mailto:communications@saintanthonys.com"><i class="fa-regular fa-paper-plane fa-lg"></i>communications@saintanthonys.com</a></li>
-  <li><a title="Visit our official SSPX website" href="https://fsspx.today/chapel/nc-charlotte/info/"><i class="fa-solid fa-globe fa-lg"></i>SSPX Chapel Homepage</a></li>
-  <li><a title="Call the chapel" href="tel:+17048278676"><i class="fa-solid fa-phone fa-lg"></i>(704) 827-8676</a></li>
+  <li><a title="Call the chapel" href="tel:+17048278676"><i class="fa-solid fa-phone fa-lg"></i>Chapel Phone: (704) 827-8676</a></li>
+  <li><a title="Call the Sacramental Emergency Hotline" href="tel:+19805017779"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (980) 501-7779</a>
 </ul>
