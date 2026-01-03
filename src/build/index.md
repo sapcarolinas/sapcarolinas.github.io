@@ -2,7 +2,7 @@
 title: Building Project
 description: Join us in building a home for the fullness of Catholic life in the Carolinas.
 nsa: true
-social-image: nsa/nsa-notransparent.png
+social-image: build/nsa-notransparent.png
 ---
 
 <img alt="The New Saint Anthony's" class="right nsa" src="nsa.png">
