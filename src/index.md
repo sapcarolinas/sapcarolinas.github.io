@@ -4,8 +4,7 @@ social-image: church.jpg
 ---
 
 Saint Anthony's is a Catholic chapel served by the [Society of Saint Pius X](https://sspx.org/en).
-Centrally located near Charlotte, NC, we offer the Traditional Latin Mass and all
-Sacraments according to the traditional Roman Rite.
+Centrally located near Charlotte, we offer the traditional Latin Mass and all Sacraments in their forms prior to the Second Vatican Council.
 
 ## Building Project<a href="/nsa/"><img alt="The New Saint Anthony's" class="right nsa" src="/nsa/nsa.png"></a>
 
