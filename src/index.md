@@ -6,6 +6,7 @@ social-image: church.jpg
 Saint Anthony's is a Catholic chapel served by the [Society of Saint Pius X](https://sspx.org/en).
 Centrally located near Charlotte, we offer the traditional Latin Mass and all Sacraments in their forms prior to the Second Vatican Council.
 
+<!--
 ## Building Project<a href="/nsa/"><img alt="The New Saint Anthony's" class="right nsa" src="/nsa/nsa.png"></a>
 
 The SSPX General Council has authorized us to purchase a property on which to build a new church complex.
@@ -13,6 +14,7 @@ The SSPX General Council has authorized us to purchase a property on which to bu
 Help us build a new home for Tradition in the Carolinas!
 
 <a class="action large" title="Learn more about the New Saint Anthony's" href="/nsa/"><i class="fa-solid fa-church fa-xl"></i><span>Learn more</span></a>
+-->
 
 <div class="split2" id="banner">
   <div id="mass-times" class="schedule">
