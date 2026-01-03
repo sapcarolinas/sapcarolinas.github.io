@@ -1,3 +1,4 @@
+<style>
 html {
   overflow-x: hidden;
   margin-right: calc(-1 * (100vw - 100%));
@@ -540,3 +541,4 @@ header.noheading {
     text-align: center;
   }
 }
+</style>
