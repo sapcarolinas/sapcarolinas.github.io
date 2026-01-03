@@ -9,14 +9,11 @@ Sacraments according to the traditional Roman Rite.
 
 ## Building Project<a href="/nsa/"><img alt="The New Saint Anthony's" class="right nsa" src="/nsa/nsa.png"></a>
 
-In recent years, our chapel has experienced significant growth.
-
-The SSPX General Council has approved our plan to purchase a property
-on which to build a new church complex.
+The SSPX General Council has authorized us to purchase a property on which to build a new church complex.
 
 Help us build a new home for Tradition in the Carolinas!
 
-<a class="action" title="Learn more about the New Saint Anthony's" href="/nsa/"><i class="fa-solid fa-church fa-xl"></i><span>Learn more</span></a>
+<a class="action large" title="Learn more about the New Saint Anthony's" href="/nsa/"><i class="fa-solid fa-church fa-xl"></i><span>Learn more</span></a>
 
 <div class="split2" id="banner">
   <div id="mass-times" class="schedule">

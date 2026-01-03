@@ -70,9 +70,9 @@ To become a member of Saint Anthony's, simply complete our registration form:
 <a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
 
 
-## How do I donate to Saint Anthony's?
+## How do I donate?
 
-The SSPX General Council has approved our plan to build [The New Saint Anthony's](/nsa/).
+The SSPX General Council has approved our plan to build [a new church complex](/nsa/).
 Contribute to our Capital Campaign and help us build a new home for Tradition in the Carolinas!
 
 <a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
