@@ -22,16 +22,18 @@ Help us build a new home for Tradition in the Carolinas!
     <h3>Saturday</h3>
     <table>
       <tr><td>4:00 PM</td><td>Adoration <em>(First Saturdays)</em></td></tr>
-      <tr><td>4:15 PM</td><td>Confessions</td></tr>
+      <tr><td>4:15 PM</td><td>Confession</td></tr>
       <tr><td>5:00 PM</td><td>Low Mass</td></tr>
     </table>
     <h3>Sunday</h3>
     <table>
-      <tr><td>7:30 AM</td><td>Confessions</td></tr>
+      <tr><td>7:15 AM</td><td>Confession</td></tr>
+      <tr><td>7:30 AM</td><td>Rosary</td></tr>
       <tr><td>8:00 AM</td><td>Low Mass</td></tr>
     </table>
     <table>
-      <tr><td>9:15 AM</td><td>Confessions</td></tr>
+      <tr><td>9:15 AM</td><td>Confession</td></tr>
+      <tr><td>9:30 AM</td><td>Rosary</td></tr>
       <tr><td>10:00 AM</td><td>Sung Mass</td></tr>
     </table>
   </div>
