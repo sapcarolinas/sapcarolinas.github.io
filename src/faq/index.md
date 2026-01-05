@@ -30,7 +30,7 @@ Note that this number is for **emergency use only**:
 <a class="action" title="Call the Sacramental Emergency Hotline" href="tel:+19805017779"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (980) 501-7779</a>
 
 
-## How do I receive chapel news and announcements?
+## How do I get chapel news?
 
 ### Mailing List
 
