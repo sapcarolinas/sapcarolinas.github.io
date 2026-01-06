@@ -32,6 +32,12 @@ jobs:
       - name: build html
         run:  make build
 
+      - name: generate sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          path-to-root: 1
+          base-url-path: https://www.saintanthonys.com/
+
       - name: upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
