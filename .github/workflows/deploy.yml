@@ -39,6 +39,7 @@ jobs:
         with:
           path-to-root: dist
           base-url-path: https://www.saintanthonys.com/
+          exclude-paths: /google28c013e5489cf282.html
 
       - name: upload artifact
         uses: actions/upload-pages-artifact@v3
