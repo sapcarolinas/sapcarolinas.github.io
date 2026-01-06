@@ -46,6 +46,13 @@ Divinity of our Lord Jesus Christ.
 Those not receiving Holy Communion should simply remain in their pew.
 
 
+## Will I be welcome as a guest?
+
+You will always be warmly welcomed by the faithful of Saint Anthony's, especially our
+friendly ushers. After Sunday Mass, you will find that many families bring lunch and socialize
+together at length in our outdoor Pavilion.
+
+
 ## How do I get chapel news?
 
 ### Mailing List
@@ -84,13 +91,6 @@ Simply click one of the links below:
 To become a member of Saint Anthony's, simply complete our registration form:
 
 <a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
-
-
-## Will I be welcome as a guest?
-
-You will always be warmly welcomed by the faithful of Saint Anthony's, especially our
-friendly ushers. After Sunday Mass, you will find that many families bring lunch and socialize
-together at length in our outdoor Pavilion.
 
 
 ## What should I wear to Mass?
