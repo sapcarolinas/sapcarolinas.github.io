@@ -30,6 +30,22 @@ Note that this number is for **emergency use only**:
 <a class="action" title="Call the Sacramental Emergency Hotline" href="tel:+19805017779"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (980) 501-7779</a>
 
 
+## Can I receive Holy Communion?
+
+The reception of Holy Communion is reserved for practicing Catholics in the state of grace.
+
+Specifically, to receive Holy Communion: One must be a baptized and practicing Catholic,
+having made a good confession since the last committed mortal sin (if any) in order to be
+in the state of Grace, and one must not be a public sinner (living in sin with another,
+married outside the Church, etc.)
+
+One must observe at least one hour of Eucharistic fast (water and medicine do not break the fast).
+The most important requirement is to have a great desire to receive the Body, Blood, Soul, and
+Divinity of our Lord Jesus Christ.
+
+Those not receiving Holy Communion should simply remain in their pew.
+
+
 ## How do I get chapel news?
 
 ### Mailing List
@@ -70,32 +86,6 @@ To become a member of Saint Anthony's, simply complete our registration form:
 <a class="action" title="Chapel Registration Form" href="https://docs.google.com/forms/d/1tSTJ8jiqDTp_lOUH_mghFVU2Pke9matCISseFaC2jus/viewform"><i class="fa-regular fa-clipboard fa-xl"></i><span>Register Now</span></a>
 
 
-## How do I donate?
-
-The SSPX General Council has approved our plan to build [a new church complex](/build/).
-Contribute to our Capital Campaign and help us build a new home for Tradition in the Carolinas!
-
-<a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
-
-Or, to support the weekly operation of our current chapel, you can [donate to the general collection](https://www.paypal.com/donate/?hosted_button_id=376XR694NLM5N).
-
-
-## Can I receive Holy Communion?
-
-The reception of Holy Communion is reserved for practicing Catholics in the state of grace.
-
-Specifically, to receive Holy Communion: One must be a baptized and practicing Catholic,
-having made a good confession since the last committed mortal sin (if any) in order to be
-in the state of Grace, and one must not be a public sinner (living in sin with another,
-married outside the Church, etc.)
-
-One must observe at least one hour of Eucharistic fast (water and medicine do not break the fast).
-The most important requirement is to have a great desire to receive the Body, Blood, Soul, and
-Divinity of our Lord Jesus Christ.
-
-Those not receiving Holy Communion should simply remain in their pew.
-
-
 ## Will I be welcome as a guest?
 
 You will always be warmly welcomed by the faithful of Saint Anthony's, especially our
@@ -127,3 +117,13 @@ By God's grace, our chapel is blessed with many newcomers who are discovering Ca
 tradition for the very first time.
 *Let the charity of the brotherhood abide in you. And hospitality do not forget;
 for by this some, being not aware of it, have entertained angels. (Heb 13:1-2)*
+
+
+## How do I donate?
+
+The SSPX General Council has approved our plan to build [a new church complex](/build/).
+Contribute to our Capital Campaign and help us build a new home for Tradition in the Carolinas!
+
+<a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
+
+Or, to support the weekly operation of our current chapel, you can [donate to the general collection](https://www.paypal.com/donate/?hosted_button_id=376XR694NLM5N).
