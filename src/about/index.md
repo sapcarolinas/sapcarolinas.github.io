@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: The story of Saint Anthony's and traditional Catholicism in the Carolinas.
+description: Saint Anthony's is a Catholic chapel in the Charlotte area served by the SSPX.
 about: true
 social-image: about/faithful.jpg
 ---

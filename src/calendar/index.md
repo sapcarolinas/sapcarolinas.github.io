@@ -1,6 +1,6 @@
 ---
 title: Calendar
-description: Subscribe to the Saint Anthony's Calendar!
+description: Subscribe to the Saint Anthony's chapel calendar.
 ---
 
 To add the chapel's calendar to your smartphone, click one of the links below:

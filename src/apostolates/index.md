@@ -1,7 +1,7 @@
 ---
 title: Apostolates
 heading: Our Apostolates
-description: Our faithful give their time and talent for the glory of God and the fullness of Catholic life.
+description: The many ways our faithful give their time and talent for the glory of God.
 apostolates: true
 social-image: apostolates/schola-puerorum.jpg
 ---

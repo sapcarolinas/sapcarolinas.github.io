@@ -1,11 +1,11 @@
 ---
 title: Catechism Programs
-description: Saint Anthony's offers weekly education in the traditional Catholic Faith to students of all ages.
+description: Saint Anthony's offers education in the traditional Faith to Catholics of all ages.
 catechism: true
 social-image: catechism/fellay.jpg
 ---
 
-Saint Anthony's offers weekly education in the traditional Catholic Faith to students of all ages.
+Saint Anthony's offers weekly education in the traditional Faith to Catholics of all ages.
 
 ## Youth Catechism 
 
@@ -14,7 +14,6 @@ Saint Anthony's offers weekly education in the traditional Catholic Faith to stu
 Our religious education program is designed to accompany children through every
 stage of the sacramental life. Each of our classes draws exclusively from traditional
 Catholic resources and texts.
-
 
 - Post-Baptism (ages 3-5)
 - First Communion Prep (ages 6-7)

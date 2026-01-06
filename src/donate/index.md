@@ -1,6 +1,6 @@
 ---
 title: Donate
-description: Offer your contribution to the New Saint Anthony's.
+description: Help us build a home for Catholic Tradition in the Carolinas.
 heading: Capital Campaign
 social-image: build/nsa-notransparent.png
 donate: true

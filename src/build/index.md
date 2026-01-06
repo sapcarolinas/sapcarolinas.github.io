@@ -1,6 +1,6 @@
 ---
 title: Building Project
-description: Join us in building a home for the fullness of Catholic life in the Carolinas.
+description: Join us in building a new home Catholic Tradition in the Carolinas!
 nsa: true
 social-image: build/nsa-notransparent.png
 ---
