@@ -5,20 +5,25 @@ import sys
 import urllib.parse
 from pathlib import Path
 
-root_dir = Path(sys.argv[1])
-path     = Path(sys.argv[2])
-relpath  = path.relative_to(root_dir)
+def relpath(root_dir, path):
+    root_dir = Path(root_dir)
+    path     = Path(path)
+    relpath  = path.relative_to(root_dir)
 
-if path == root_dir:
-    raise ValueError("path and root_dir are the same!")
+    if path == root_dir:
+        raise ValueError("path and root_dir are the same!")
 
-if relpath.name == "index.html":
-    parent = relpath.parent.as_posix()
-    if parent == ".":
-        url = ""
+    if relpath.name in ["index.html", "index.md"]:
+        parent = relpath.parent.as_posix()
+        if parent == ".":
+            url = ""
+        else:
+            url = parent + os.sep
     else:
-        url = parent + os.sep
-else:
-    url = relpath.as_posix()
+        url = relpath.as_posix()
 
-print(urllib.parse.quote(url))
+    return urllib.parse.quote(url)
+
+
+if __name__ == "__main__":
+    print(relpath(sys.argv[1], sys.argv[2]))

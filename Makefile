@@ -1,6 +1,6 @@
-SANDBOX_TARGET     = www1:/usr/local/www/vhosts/sapdev.sacredheartsc.com
+BASE_URL           = https://www.saintanthonys.com
 STATIC_REGEX       = .*\.(html|jpg|jpeg|png|xml|txt|ico|webmanifest|svg)
-RECENT_POSTS_LIMIT = 5
+SITEMAP_EXCLUDE    = $(NEWS_MARKDOWN) google*.html
 
 OS := $(shell uname -s)
 ifeq ($(OS),FreeBSD)
@@ -25,8 +25,10 @@ SOURCE_STATIC      := $(shell $(FIND) $(SOURCE_DIR) -type f -regextype posix-ext
 OUTPUT_DIRS        := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(SOURCE_DIRS))
 OUTPUT_MARKDOWN    := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(patsubst %.md, %.html, $(SOURCE_MARKDOWN)))
 OUTPUT_STATIC      := $(patsubst $(SOURCE_DIR)/%, $(OUTPUT_DIR)/%, $(SOURCE_STATIC))
+OUTPUT_SITEMAP      = $(OUTPUT_DIR)/sitemap.xml
 
 CP                  = cp -p
+SITEMAP             = $(SCRIPT_DIR)/sitemap.py
 INTERPOLATE         = sed -e '/$(1)/{r $(2)' -e 'd;}'
 RELPATH             = $(shell $(SCRIPT_DIR)/relpath.py $(OUTPUT_DIR) "$(1)")
 PANDOC              = pandoc \
@@ -34,6 +36,7 @@ PANDOC              = pandoc \
 												--include-in-header="$(DEFAULT_CSS)" \
 												--template="$(TEMPLATE_DIR)/$(1)" \
 												--metadata="relpath:$(call RELPATH,$(2))" \
+												--metadata="baseurl:$(BASE_URL)" \
 												--output="$(2)" \
 												$(PANDOC_METADATA) \
 												-
@@ -42,7 +45,8 @@ PANDOC              = pandoc \
 build: \
 	$(OUTPUT_DIRS) \
 	$(OUTPUT_MARKDOWN) \
-	$(OUTPUT_STATIC)
+	$(OUTPUT_STATIC) \
+	$(OUTPUT_SITEMAP)
 
 $(OUTPUT_DIRS):
 	mkdir -p $@
@@ -54,6 +58,10 @@ $(OUTPUT_DIR)/index.html: $(SOURCE_DIR)/index.md $(SOURCE_DIR)/$(NEWS_MARKDOWN) 
 # News (/news/)
 $(OUTPUT_DIR)/news/index.html: $(SOURCE_DIR)/news/index.md $(SOURCE_DIR)/$(NEWS_MARKDOWN) $(TEMPLATE_DIR)/default.html $(PANDOC_CONFIG) $(PANDOC_METADATA) $(DEFAULT_CSS)
 	  $(call INTERPOLATE,$(NEWS_REPLACE),$(SOURCE_DIR)/$(NEWS_MARKDOWN)) $< | $(call PANDOC,default.html,$@)
+
+# Sitemap
+$(OUTPUT_SITEMAP): $(SOURCE_MARKDOWN) $(SOURCE_STATIC) $(SITEMAP)
+	$(SITEMAP) $(BASE_URL) $(SOURCE_DIR) $(SITEMAP_EXCLUDE) > $@
 
 # Convert all other .md files to .html
 $(OUTPUT_DIR)/%.html: $(SOURCE_DIR)/%.md $(DEFAULT_TEMPLATE) $(PANDOC_CONFIG) $(PANDOC_METADATA) $(DEFAULT_CSS)

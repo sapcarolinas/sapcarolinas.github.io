@@ -1,5 +1,4 @@
 ---
-baseurl: https://www.saintanthonys.com
 site-title: Saint Anthony of Padua Catholic Church
 site-title-short: Saint Anthony's
 tagline: The fullness of Catholic life in the Carolinas.
