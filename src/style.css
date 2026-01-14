@@ -474,6 +474,10 @@ header.noheading {
   .action-list.horizontal li + li {
     margin-top: 0;
   }
+
+  .desktop-hidden {
+    display: none;
+  }
 }
 
 /* Mobile Browsers */
