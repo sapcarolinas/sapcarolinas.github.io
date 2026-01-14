@@ -6,7 +6,7 @@ social-image: build/nsa-notransparent.png
 donate: true
 ---
 
-<a href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><img title="Donate to The New Saint Anthony's" alt="The New Saint Anthony's" class="right nsa" src="/build/nsa.png"></a>
+<a href="#/fundraising/forms/PYEVM6DX"><img title="Donate to The New Saint Anthony's" alt="The New Saint Anthony's" class="right nsa" src="/build/nsa.png"></a>
 
 To accomodate our expanding congregation, the General Council of the SSPX has
 authorized us to purchase a property on which to build a [new church complex](/build/).
