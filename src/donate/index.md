@@ -13,7 +13,7 @@ authorized us to purchase a property on which to build a [new church complex](/b
 
 Help us build a new home for Tradition in the Carolinas!
 
-<a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
+<a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
 
 ## Considering a major contribution?
 

@@ -124,6 +124,6 @@ for by this some, being not aware of it, have entertained angels. (Heb 13:1-2)*
 The SSPX General Council has approved our plan to build [a new church complex](/build/).
 Contribute to our Capital Campaign and help us build a new home for Tradition in the Carolinas!
 
-<a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
+<a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
 
 Or, to support the weekly operation of our current chapel, you can [donate to the general collection](https://www.paypal.com/donate/?hosted_button_id=376XR694NLM5N).

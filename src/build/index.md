@@ -27,11 +27,7 @@ Realizing this vision depends first and foremost on your continued prayers, and 
 on your financial support.
 To help us obtain this property, consider making your contribution to our capital campaign:
 
-<button data-fundraising-form="PYEVM6DX" type="button">Donate Now</button>
-
-<!--
-<a class="action large donate" title="Donate to the New Saint Anthony's" href="https://form-renderer-app.donorperfect.io/give/the-new-saint-anthonys/nsa1"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
--->
+<a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
 
 ## Considering a major contribution?
 
