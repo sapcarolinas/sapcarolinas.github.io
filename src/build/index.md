@@ -5,7 +5,7 @@ nsa: true
 social-image: build/nsa-notransparent.png
 ---
 
-<img alt="The New Saint Anthony's" class="right nsa mobile-small" src="nsa.png" href="#/fundraising/forms/PYEVM6DX">
+<a href="#/fundraising/forms/PYEVM6DX"><img alt="The New Saint Anthony's" class="right nsa mobile-small" src="nsa.png"></a>
 
 By God's grace, our community has grown steadily ever since our [founding](/about/) in 1981.
 As Charlotte has overflowed with faith, families, and vocations, so too has our small chapel.
