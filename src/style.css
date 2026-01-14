@@ -521,7 +521,7 @@ header.noheading {
     margin: 1em auto;
   }
 
-  article img.small {
+  article img.small, article img.mobile-small {
     max-height: 150px;
   }
 

@@ -5,7 +5,7 @@ nsa: true
 social-image: build/nsa-notransparent.png
 ---
 
-<img alt="The New Saint Anthony's" class="right nsa" src="nsa.png" href="#/fundraising/forms/PYEVM6DX">
+<img alt="The New Saint Anthony's" class="right nsa mobile-small" src="nsa.png" href="#/fundraising/forms/PYEVM6DX">
 
 By God's grace, our community has grown steadily ever since our [founding](/about/) in 1981.
 As Charlotte has overflowed with faith, families, and vocations, so too has our small chapel.
@@ -13,7 +13,7 @@ As Charlotte has overflowed with faith, families, and vocations, so too has our 
 To accomodate our expanding congregation, the General Council of the SSPX in Switzerland has
 authorized us to purchase a property on which to build a new church complex.
 
-<a class="desktop-hidden action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
+<a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
 
 ## Help build a new home for Tradition!{.noclear}
 
@@ -25,11 +25,9 @@ us and our descendants with the fullness of Catholic life.
 > of sacramental grace and Christian life for His people for countless generations.
 > It will be the seedbed of saints.
 
-Realizing this vision depends first and foremost on your continued prayers, and secondarily,
+Realizing this vision depends first and foremost on your prayers, but also
 on your financial support.
-To help us obtain this property, consider making your contribution to our capital campaign:
-
-<a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
+To help us obtain this property, consider [making your contribution](#/fundraising/forms/PYEVM6DX) to our capital campaign.
 
 ## Considering a major contribution?
 
