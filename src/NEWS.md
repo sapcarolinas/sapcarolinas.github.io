@@ -4,7 +4,8 @@ Blessing of Candles, Throats: Febrary 8
   <br>
   Candles will also be blessed.
   Label your candles and leave them at the Blessings Table in the Social Hall.
-  Candles need not be made of beeswax.
+  <br>
+  *Candles do not need to be made of beeswax in order to be blessed.*
 
 Help needed removing Christmas decorations
 : Helping hands are needed after Mass on Sunday, January 25 to take down and store
