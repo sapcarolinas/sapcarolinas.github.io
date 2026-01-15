@@ -12,7 +12,7 @@ Help needed removing Christmas decorations
 
 Important Dates Announced
 : Mark your calendars:
-
+  <br>
   - **Confirmations** will be held on April 12 at [Our Lady of the Assumption, Walton, KY](https://www.assumptionchurch.net/)
   - **Fist Holy Communions** will take place on May 10
   
