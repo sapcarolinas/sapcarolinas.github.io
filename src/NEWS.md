@@ -12,9 +12,10 @@ Help needed removing Christmas decorations
 
 Important Dates Announced
 : Mark your calendars:
-  <br>
-  - **Confirmations** will be held on April 12 at [Our Lady of the Assumption, Walton, KY](https://www.assumptionchurch.net/)
-  - **Fist Holy Communions** will take place on May 10
+  <ul>
+    <li><strong>Confirmations</strong> will be held on April 12 at <a href="https://www.assumptionchurch.net/">Our Lady of the Assumption, Walton, KY</a>.</li>
+    <li><strong>First Holy Communions</strong> will take place on May 10.</li>
+  <ul>
   
 Epiphany: Blessed Chalk
 : Bless your home during Epiphany!
