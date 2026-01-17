@@ -8,7 +8,7 @@ Blessing of Candles, Throats: Febrary 8
   *Candles do not need to be made of beeswax in order to be blessed.*
 
 Help needed removing Christmas decorations
-: Please meet in the chapel after Mass on Sunday, January 25 to help take down and store our Christmas decorations.
+: Please meet in the chapel at 12:30 PM on Sunday, January 25 to help take down and store our Christmas decorations.
 
 Children's Choir resumes on February 1
 : Weekly practice for the Children's Choir will resume on Sunday, February 1 at
