@@ -11,9 +11,9 @@ the HTML for each page of the website.
 If you are unfamiliar with Markdown, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 
 The [src/](src) directory in this repository contains all the Markdown files and static
-assets used to generate saintanthonys.com.
+assets used to generate the website.
 
-Its directory structure maps exactly to the URL structure used by the webpage.
+Its directory structure maps exactly to website URLs.
 For example, [src/about/index.md](src/about/index.md) becomes [saintanthonys.com/about](https://www.saintanthonys.com/about/).
 
 Whenever you commit a change to a file in this repository, the website is automatically
