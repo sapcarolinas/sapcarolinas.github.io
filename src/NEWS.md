@@ -10,6 +10,11 @@ Blessing of Candles, Throats: Febrary 8
 Help needed removing Christmas decorations
 : Please meet in the chapel after Mass on Sunday, January 25 to help take down and store our Christmas decorations.
 
+Children's Choir resumes on February 1
+: Weekly practice for the Children's Choir will resume on Sunday, February 1 at
+  11:45 AM in the Schoolhouse. Any parents wishing to enroll their child for the
+  first time are warmly invited to attend!
+
 Important Dates Announced
 : Mark your calendars:
   <ul>
