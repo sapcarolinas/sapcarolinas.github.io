@@ -5,10 +5,8 @@ the website of Saint Anthony of Padua Catholic Church in Mount Holly, NC.
 
 ## How it works.
 
-Markdown is a human-readable plain-text file format. Markdown files are used to generate
-the HTML for each page of the website.
-
-If you are unfamiliar with Markdown, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
+[Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) is a
+human-readable plain-text file format. Markdown files are used to generate the HTML for each page of the website.
 
 The [src/](src) directory in this repository contains all the Markdown files and static
 assets used to generate the website.
