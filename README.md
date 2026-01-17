@@ -1,7 +1,7 @@
 # saintanthonys.com
 
-This repository contains source code for the [website](https://www.saintanthonys.com/)
-of Saint Anthony of Padua Catholic Church in Mount Holly, NC.
+This repository contains source code for [saintanthonys.com](https://www.saintanthonys.com/),
+the website of Saint Anthony of Padua Catholic Church in Mount Holly, NC.
 
 ## How it works.
 
@@ -11,13 +11,13 @@ the HTML for each page of the website.
 If you are unfamiliar with Markdown, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 
 The [src/](src) directory in this repository contains all the Markdown files and static
-assets used to generate [saintanthonys.com](https://www.saintanthonys.com/).
+assets used to generate saintanthonys.com.
 
 Its directory structure maps exactly to the URL structure used by the webpage.
 For example, [src/about/index.md](src/about/index.md) becomes [saintanthonys.com/about](https://www.saintanthonys.com/about/).
 
 Whenever you commit a change to a file in this repository, the website is automatically
-rebuilt and deployed to [saintanthonys.com](https://www.saintanthonys.com) using GitHub Pages.
+rebuilt and deployed to saintanthonys.com using GitHub Pages.
 
 There are two ways to make changes to the website:
 
