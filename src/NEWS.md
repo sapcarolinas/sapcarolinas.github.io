@@ -1,5 +1,4 @@
 # Blessing of Throats, Candles: Febrary 8
-
 The traditional Blessing of Throats will take place after each Mass on Sunday, February 8. 
 Candles will also be blessed.
 Label your candles and leave them at the Blessings Table in the Social Hall.
