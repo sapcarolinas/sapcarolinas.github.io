@@ -15,6 +15,15 @@ Help us build a new home for Tradition in the Carolinas!
 
 <a class="action large donate" title="Donate to the New Saint Anthony's" href="#/fundraising/forms/PYEVM6DX"><i class="fa-solid fa-gift fa-xl"></i><span>Donate Now</span></a>
 
+## Prefer to donate by check?
+
+Make checks payable to *Saint Anthony's* and include *Building Fund* in the memo line.
+Mail donations to:
+
+The New Saint Anthony's<br>
+P.O. Box 282<br>
+Waxhaw, NC 28173
+
 ## Considering a major contribution?
 
 If you are considering a major contribution for The New Saint Anthony's, we warmly invite you to contact our fundraising chairman, Mr. Chris Lauer:

@@ -29,6 +29,15 @@ Realizing this vision depends first and foremost on your prayers, but also
 on your financial support.
 To help us obtain this property, consider [making your contribution](#/fundraising/forms/PYEVM6DX) to our capital campaign.
 
+## Prefer to donate by check?
+
+Make checks payable to *Saint Anthony's* and include *Building Fund* in the memo line.
+Mail donations to:
+
+The New Saint Anthony's<br>
+P.O. Box 282<br>
+Waxhaw, NC 28173
+
 ## Considering a major contribution?
 
 If you are considering a major contribution for The New Saint Anthony's, we warmly invite you to contact our fundraising chairman, Mr. Chris Lauer:
