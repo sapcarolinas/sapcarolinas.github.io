@@ -1,3 +1,7 @@
+# Homeschool Cooperative Concert 
+Please join us on Sunday, January 25 at noon in the Social Hall. Bring your lunch and enjoy the concert with friends. 
+The children have been preparing their performances all school year!
+
 # Blessing of Throats, Candles: Febrary 8
 The traditional Blessing of Throats will take place after each Mass on Sunday, February 8. 
 Candles will also be blessed.
