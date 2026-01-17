@@ -19,7 +19,7 @@ until our current property in Mount Holly was acquired in August of 2000.
 By God's grace, Saint Anthony's continues to offer a refuge of the traditional Sacraments to all who
 seek them in the Carolinas and beyond. 
 
-<div class="split2">
+<div class="split2 mobile-center">
   <div>
     <h2>Our Priest</h2>
     <img class="left small" src="bourbeau.jpg">
