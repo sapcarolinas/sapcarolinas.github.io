@@ -3,7 +3,7 @@
 This repository contains source code for [saintanthonys.com](https://www.saintanthonys.com/),
 the website of Saint Anthony of Padua Catholic Church in Mount Holly, NC.
 
-## How it works.
+## How it works
 
 [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) is a
 human-readable plain-text file format. Markdown files are used to generate the HTML for each page of the website.
