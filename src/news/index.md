@@ -5,7 +5,9 @@ news: true
 heading: Announcements
 ---
 
+:::{.news}
 __NEWS__
+:::
 
 <h2>Chapel Schedule</h2>
 <div class="calendar">
