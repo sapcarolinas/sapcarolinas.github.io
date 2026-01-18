@@ -161,6 +161,10 @@ nav ul li a.active {
   margin-top: 2em;
 }
 
+#location {
+  text-align: center;
+}
+
 #location img {
   filter: drop-shadow(3px 3px 5px #222);
   margin-bottom: 0.25em;

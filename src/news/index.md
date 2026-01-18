@@ -9,7 +9,8 @@ heading: Announcements
 __NEWS__
 :::
 
-<h2>Chapel Schedule</h2>
+## Chapel Calendar
+
 <div class="calendar">
   <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showTitle=0&showPrint=0&title=Chapel%20Schedule&showTz=0&showCalendars=0&showTabs=0&src=Y2FsZW5kYXJAc2FpbnRhbnRob255cy5jb20&color=%23336699" style="border-width:0" frameborder="0" scrolling="no"></iframe>
 </div>
