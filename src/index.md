@@ -74,6 +74,5 @@ For pictures and videos of Catholic life at Saint Anthony's, follow us on social
 <ul class="action-list">
   <li><a title="Chat with us on Facebook Messenger" href="https://m.me/sapcarolinas"><i class="fa-regular fa-message fa-lg"></i>Facebook Messenger</a></li>
   <li><a title="Email our Communications Team" href="mailto:communications@saintanthonys.com"><i class="fa-regular fa-paper-plane fa-lg"></i>communications@saintanthonys.com</a></li>
-  <li><a title="Call the chapel" href="tel:+17048278676"><i class="fa-solid fa-phone fa-lg"></i>Chapel Phone: (704) 827-8676</a></li>
-  <li><a title="Call the Sacramental Emergency Hotline" href="tel:+19805017779"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (980) 501-7779</a>
+  <li><a title="Call us" href="tel:+17048278676"><i class="fa-solid fa-phone fa-lg"></i>(704) 827-8676</a></li>
 </ul>

@@ -24,10 +24,10 @@ For the Sacraments of Baptism, Confirmation, and Marriage, you must be
 at the chapel and meet with our priest so that you may become acquainted.
 These Sacraments require appropriate spiritual preparation under his guidance.
 
-For gravely urgent sick calls or emergencies, dial our Sacramental Emergency Hotline.
-Note that this number is for **emergency use only**:
+For gravely urgent sick calls or emergencies, call the chapel and **press 2** to be
+connected to our Sacramental Emergency Hotline:
 
-<a class="action" title="Call the Sacramental Emergency Hotline" href="tel:+19805017779"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (980) 501-7779</a>
+<a class="action" title="Call us" href="tel:+17048278676"><i class="fa-solid fa-triangle-exclamation fa-lg"></i>Sacramental Emergencies: (704) 827-8676</a>
 
 
 ## Can I receive Holy Communion?
