@@ -21,6 +21,7 @@ Join us in the Schoolhouse at 11:45 on February 1st and 15th.
 
 # Important Dates Announced
 Mark your calendars:
+
   - **Confirmations** will be held on April 12 at [Our Lady of the Assumption, Walton, KY](https://www.assumptionchurch.net/).
   - **First Holy Communions** will take place on May 10.
 
