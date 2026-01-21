@@ -16,7 +16,7 @@ Weekly practice for the Children's Choir will resume on Sunday, February 1 at 11
 Any parents wishing to enroll their child for the first time are warmly invited to attend!
 
 # Ladies' Book Club February meetings
-All ladies are welcome! We are reading *The Paradise of the Soul - 42 Virtues to Reach Heaven* by Saint Albert the Great
+All ladies are welcome! We are reading *The Paradise of the Soul - 42 Virtues to Reach Heaven* by Saint Albert the Great.
 Join us in the Schoolhouse at 11:45 on February 1st and 15th.
 
 # Important Dates Announced
