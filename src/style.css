@@ -172,6 +172,14 @@ nav ul li a.active {
   color: #111111;
 }
 
+ul, ol {
+  margin: 1em 0;
+}
+
+li p {
+  margin: 0;
+}
+
 #banner {
   margin-top: 2em;
 }
@@ -495,6 +503,9 @@ header.noheading {
   .desktop-hidden {
     display: none;
   }
+  ul, ol {
+    padding-left: 2.5em;
+  }
 }
 
 /* Mobile Browsers */
@@ -545,6 +556,10 @@ header.noheading {
 
   a.donate {
     text-align: center;
+  }
+
+  ul, ol {
+    padding-left: 2em;
   }
 }
 </style>
