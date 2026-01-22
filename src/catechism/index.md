@@ -34,9 +34,9 @@ Classes meet on Sundays at 9:00 AM. Enroll your child today!
 All adults are invited to continue their Catholic education in our Adult Catechism program.
 Classes meet on Sundays at 9:00 AM in the Social Hall. No registration is necessary!
 
-### Study Materials
+### Class Materials
 
-Notes and audio recordings for each class can be found below.
+Study notes (PDF) and audio recordings (MP3) for each class are available below.
 
 - The Sixth and Ninth Commandments:
   [PDF](https://drive.google.com/file/d/1T-q4CkOgXqoyxksXZ7gXLmiNYZz4r-GN/view?usp=sharing) |
@@ -58,9 +58,10 @@ Notes and audio recordings for each class can be found below.
   [MP3](https://drive.google.com/file/d/1ofjuzkFyKwCXxQdJgzapm1JWEsnAHsYQ/view?usp=sharing)
   *(12/21/2025)*
 
-[Notes](https://drive.google.com/drive/folders/1cd-u4Gln1EFpxj6uCqZKWa-W_qRj-SN0?usp=sharing) and
+Looking for prior weeks' class materials? All
+[notes](https://drive.google.com/drive/folders/1cd-u4Gln1EFpxj6uCqZKWa-W_qRj-SN0?usp=sharing) and
 [recordings](https://drive.google.com/drive/folders/1uYg5l1i0xDPIszMHh0SEP5qa3CDjq_Ib?usp=sharing)
-for previous classes are available on Google Drive.
+are available on Google Drive.
 
 
 ## Convert Catechism
