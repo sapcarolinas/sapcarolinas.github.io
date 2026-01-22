@@ -101,6 +101,10 @@ header .logo {
   width: 100%;
 }
 
+nav + h1 {
+  margin-top: 1em;
+}
+
 h1 {
   margin-top: 1.5em;
   margin-bottom: 0.75em;
