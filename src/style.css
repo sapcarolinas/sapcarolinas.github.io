@@ -102,8 +102,19 @@ header .logo {
 }
 
 h1 {
-  margin: 1em 0;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
   text-align: center;
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.25em;
 }
 
 .split2 > * {
@@ -348,12 +359,6 @@ header.noheading {
   width: 100%;
 }
 
-#paypal-button img {
-  filter: none;
-  margin-top: 1em;
-  margin-bottom: 0;
-}
-
 .action.large {
   font-size: 1.25em;
 }
@@ -387,21 +392,6 @@ header.noheading {
 
 /* Desktop Browsers */
 @media only screen and (min-width: 768px) {
-  h1 {
-    margin-top: 1em;
-    margin-bottom: 0.75em;
-  }
-
-  h2 {
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-  }
-
-  h3 {
-    margin-top: 1.25em;
-    margin-bottom: 0.25em;
-  }
-
   #tagline {
     font-size: 1.25em;
   }
@@ -505,21 +495,6 @@ header.noheading {
 
 /* Mobile Browsers */
 @media only screen and (max-width: 767px) {
-  h1 {
-    margin-top: 1em;
-    margin-bottom: 0.75em;
-  }
-
-  h2 {
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-  }
-
-  h3 {
-    margin-top: 1em;
-    margin-bottom: 0.25em;
-  }
-
   .mobile-hidden {
     display: none;
   }

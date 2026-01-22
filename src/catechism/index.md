@@ -32,8 +32,18 @@ Classes meet on Sundays at 9:00 AM. Enroll your child today!
 ## Adult Catechism
 
 All adults are invited to continue their Catholic education in our Adult Catechism program.
-
 Classes meet on Sundays at 9:00 AM in the Social Hall. No registration is necessary!
+
+### Class Notes
+
+- [The Sixth and Ninth Commandments](https://drive.google.com/file/d/1T-q4CkOgXqoyxksXZ7gXLmiNYZz4r-GN/view?usp=sharing) (Jan 18, 2026)
+- [The Fifth Commandment](https://drive.google.com/file/d/15eS12YXfthaa47yLCVFVNlyw5UygWYWL/view?usp=sharing) (Jan 11, 2026)
+- [The Fourth Commandment](https://drive.google.com/file/d/1-XFQFrhKPtLFc3ioHjg038-gi7fbcbjc/view?usp=sharing) (Jan 4, 2026)
+- [The Third Commandment](https://drive.google.com/file/d/15EFG5J0MrJshDjmnCWcbu1wPIGdNAp6d/view?usp=sharing) (Dec 21, 2025)
+
+### Class Recordings
+
+- [The Sixth and Ninth Commandments](https://drive.google.com/file/d/1D7lQax4FCQIiJ-uLSObIRXgJ-GMlenQW/view?usp=drive_link) (Jan 18, 2026)
 
 ## Convert Catechism
 
