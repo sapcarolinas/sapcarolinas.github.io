@@ -1,3 +1,15 @@
+# All Masses Canceled: January 24-25
+
+Due to the dangerous travel conditions caused by the ongoing winter storm,
+all priest travel from Father's priory in Walton, KY has been suspended.
+
+The faithful are still obliged to "keep holy the sabbath day" when assisting at
+Holy Mass is not possible.
+This could be accomplished by an Act of Spiritual Communion, personal prayer, reading your missal,
+or praying the Holy Rosary at home.
+
+We will resume our regular Mass schedule next week.
+
 # Homeschool Cooperative Concert 
 Please join us on Sunday, January 25 at noon in the Social Hall. Bring your lunch and enjoy the concert with friends. 
 The children have been preparing their performances all school year!
