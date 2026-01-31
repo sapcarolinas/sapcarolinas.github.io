@@ -1,12 +1,8 @@
-# Inclement Weather: Jan 31 - Feb 1
+# All Masses Canceled: Jan 31 - Feb 1
 
-Due to flight delays caused by the ongoing winter storm:
+Due to flight cancellations caused by the ongoing winter storm, all Masses for the weekend
+of January 31 - February 1 have been canceled.
   
-  - Mass is canceled on Saturday, January 31.
-  - Sunday Masses on February 1 will continue as scheduled, pending Father's safe arrival into Charlotte.
-  - All catechism classes are canceled on February 1.
-
-The Sunday obligation is automatically dispensed when travel presents a grave risk.
 The faithful are still obliged to "keep holy the sabbath day" when assisting at
 Holy Mass is not possible.
 This could be accomplished by an Act of Spiritual Communion, reading your missal,
