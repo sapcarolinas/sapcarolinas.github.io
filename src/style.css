@@ -398,6 +398,10 @@ header.noheading {
   margin-bottom: 0.25em;
 }
 
+.news ul {
+  margin-bottom: 0.25em;
+}
+
 .news ul, .news li {
   margin-top: 0;
 }
