@@ -4,13 +4,13 @@
 - 5:00 pm Low Mass
 - 6:00 pm Holy Name Society, Altar Rosary Society, and Eucharistic Crusade meetings
 
-# Blessing of Throats, Candles: Febrary 8
+# Blessing of Throats, Candles: February 8
 The traditional Blessing of Throats will take place after each Mass on Sunday, February 8. 
 Candles will also be blessed.
 Label your candles and leave them at the Blessings Table in the Social Hall.
 *Candles do not need to be made of beeswax in order to be blessed.*
 
-# Homeschool Cooperative Concert 
+# Homeschool Cooperative Concert: February 8
 Please join us on Sunday, February 8 at noon in the Social Hall. Bring your lunch and enjoy the concert with friends. 
 The children have been preparing their performances all school year!
 
