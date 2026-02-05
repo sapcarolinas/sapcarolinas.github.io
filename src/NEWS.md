@@ -1,13 +1,8 @@
-# All Masses Canceled: Jan 31 - Feb 1
-
-Due to flight cancellations caused by the ongoing winter storm, all Masses for the weekend
-of January 31 - February 1 have been canceled.
-  
-The faithful are still obliged to "keep holy the sabbath day" when assisting at
-Holy Mass is not possible.
-This could be accomplished by an Act of Spiritual Communion, reading your missal,
-or praying the Holy Rosary at home.
-
+# First Saturday February 7
+- 4:00 pm Holy Hour 
+- 4:15 pm Confession
+- 5:00 pm Low Mass
+- 6:00 pm Holy Name Society, Altar Rosary Society, and Eucharistic Crusade meetings
 # Homeschool Cooperative Concert 
 Please join us on Sunday, January 25 at noon in the Social Hall. Bring your lunch and enjoy the concert with friends. 
 The children have been preparing their performances all school year!
