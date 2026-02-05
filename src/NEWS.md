@@ -3,6 +3,7 @@
 - 4:15 pm Confession
 - 5:00 pm Low Mass
 - 6:00 pm Holy Name Society, Altar Rosary Society, and Eucharistic Crusade meetings
+
 # Homeschool Cooperative Concert 
 Please join us on Sunday, January 25 at noon in the Social Hall. Bring your lunch and enjoy the concert with friends. 
 The children have been preparing their performances all school year!
