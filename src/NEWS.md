@@ -4,7 +4,7 @@ Several novices of the HNS will make their professions at the conclusion of the 
 # Preparation for Lent
 **Ash Wednesday** is February 18. It is a day of obligatory fast and abstinence. 
 **Stations of the Cross** begin Friday, February 20. See the signup sheets in the vestibule.
-- [*A Practical Guide to Lent*](https://youtu.be/JLsbeJH7c3I?si=jM88JNPDiBFfk1mV)
+[*A Practical Guide to Lent*](https://youtu.be/JLsbeJH7c3I?si=jM88JNPDiBFfk1mV)
 
 # Children's Choir resumes on February 22
 Weekly practice for the Children's Choir will resume on Sunday, February 22 at 11:45 AM in the Schoolhouse.
