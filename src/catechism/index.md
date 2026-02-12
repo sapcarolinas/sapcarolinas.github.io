@@ -38,6 +38,11 @@ Classes meet on Sundays at 9:00 AM in the Social Hall. No registration is necess
 
 Study notes (PDF) and audio recordings (MP3) for each class are available below.
 
+- The Seventh and Tenth Commandments:
+  [PDF](https://drive.google.com/file/d/1W2YVBsN3EZXeEbkE_pKrhflEj1mG9oYk/view?usp=sharing) |
+  [MP3](https://drive.google.com/file/d/1ZwfkexIHLhqpodHxSlrO8yXg0jrXcyGa/view?usp=sharing)
+  *(2/8/2026)*
+
 - The Sixth and Ninth Commandments:
   [PDF](https://drive.google.com/file/d/1T-q4CkOgXqoyxksXZ7gXLmiNYZz4r-GN/view?usp=sharing) |
   [MP3](https://drive.google.com/file/d/1D7lQax4FCQIiJ-uLSObIRXgJ-GMlenQW/view?usp=sharing)
