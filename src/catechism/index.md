@@ -39,7 +39,7 @@ Classes meet on Sundays at 9:00 AM in the Social Hall. No registration is necess
 Study notes (PDF) and audio recordings (MP3) for each class are available below.
 
 - The Parable of Lazarus and the Rich Man:
-  [PDF](https://drive.google.com/file/d/1o6njFH3Q9w9mdfNipmZOBPodbVkCEleS/view?usp=drive_link) |
+  [PDF](https://drive.google.com/file/d/1o6njFH3Q9w9mdfNipmZOBPodbVkCEleS/view?usp=drive_link)
   *(2/15/2026)*
 - The Seventh and Tenth Commandments:
   [PDF](https://drive.google.com/file/d/1W2YVBsN3EZXeEbkE_pKrhflEj1mG9oYk/view?usp=sharing) |
