@@ -61,11 +61,6 @@ Study notes (PDF) and audio recordings (MP3) for each class are available below.
   [MP3](https://drive.google.com/file/d/14hHCpEPDpwVRqwfwkPcFxzfMS5zVobmJ/view?usp=sharing)
   *(1/4/2026)*
 
-- The Third Commandment:
-  [PDF](https://drive.google.com/file/d/15EFG5J0MrJshDjmnCWcbu1wPIGdNAp6d/view?usp=sharing) |
-  [MP3](https://drive.google.com/file/d/1ofjuzkFyKwCXxQdJgzapm1JWEsnAHsYQ/view?usp=sharing)
-  *(12/21/2025)*
-
 Looking for prior weeks' class materials? All
 [notes](https://drive.google.com/drive/folders/1cd-u4Gln1EFpxj6uCqZKWa-W_qRj-SN0?usp=sharing) and
 [recordings](https://drive.google.com/drive/folders/1uYg5l1i0xDPIszMHh0SEP5qa3CDjq_Ib?usp=sharing)
