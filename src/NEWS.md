@@ -5,7 +5,7 @@
 
 [*A Practical Guide to Lent*](https://youtu.be/JLsbeJH7c3I?si=jM88JNPDiBFfk1mV)
 
-[*A Good Lent Will Set You Free*](https://youtu.be/JLsbeJH7c3I?si=jM88JNPDiBFfk1mV)
+[*A Good Lent Will Set You Free*](https://youtu.be/3Tk7XI_uwg0?si=GcrdLg0YL_3-aEAc)
 
 # Save the Date: Saint Joseph's Altar
 Join us in the Pavilion at noon on Sunday, March 15 for a coffee bar, pastry shop and more. We will honor Saint Joseph and enjoy Laetare Sunday and Mothering Sunday. Bring ca$h (other forms of payment available).
