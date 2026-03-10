@@ -45,11 +45,7 @@ Centrally located near Charlotte, we offer the traditional Latin Mass and all Sa
   <div>
     <h2>Mailing List</h2>
     To receive bulletins, chapel news, and announcements straight to your inbox:
-    <form method="post" action="https://gaggle.email/join/sap@gaggle.email">
-      <input name="name" type="text" placeholder="Your Name" title="First and last name" pattern="[^\s]+\s+[^\s]+.*" autocomplete="name" required/><br/>
-      <input name="email" type="email" placeholder="you@example.com" title="Email address" autocomplete="email" required/></br>
-      <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
-    </form>
+    <a class="action" title="Subscribe to mailing list" href="https://docs.google.com/forms/d/e/1FAIpQLSfo5-e8V5h0WRtM5Pp8SELuAwBv8xW0Il9Gv-bHZe7QpWAjBg/viewform?usp=header"><i class="fa-regular fa-envelope fa-xl"></i><span>Join our Mailing List</span></a>
   </div>
   <div>
     <h2>Chapel Registration</h2>
@@ -69,7 +65,7 @@ For pictures and videos of Catholic life at Saint Anthony's, follow us on social
   <li><a title="YouTube" href="https://www.youtube.com/@SAPCarolinas"><i class="fa-brands fa-youtube fa-xl"></i><span>SAPCarolinas</a></span></li>
 </ul>
 
-## Contact Us 
+## Contact Us
 
 <ul class="action-list">
   <li><a title="Chat with us on Facebook Messenger" href="https://m.me/sapcarolinas"><i class="fa-regular fa-message fa-lg"></i>Facebook Messenger</a></li>

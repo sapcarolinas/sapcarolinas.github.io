@@ -51,8 +51,4 @@ If you are considering a major contribution for The New Saint Anthony's, we warm
 
 To get the latest updates on our building project, subscribe to the *New Saint Anthony's* interest list:
 
-<form method="post" action="https://gaggle.email/join/nsa@gaggle.email">
-  <input name="name" type="text" placeholder="Your Name" title="First and last name" pattern="[^\s]+\s+[^\s]+.*" autocomplete="name" required/><br/>
-  <input name="email" type="email" placeholder="you@example.com" title="Email address" autocomplete="email" required/></br>
-  <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
-</form>
+<a class="action" title="Subscribe to The New Saint Anthony's" href="https://docs.google.com/forms/d/e/1FAIpQLSeIHRTVHuHJPhBAzqudtSri5imWu0AFQWJg3H2SH1k2IWpqcg/viewform?usp=header"><i class="fa-regular fa-envelope fa-xl"></i><span>Subscribe!</span></a>

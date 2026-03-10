@@ -21,12 +21,8 @@ __NEWS__
 <div class="split2">
   <div>
     <h2>Mailing List</h2>
-    To get these news updates in your inbox, subcribe to our mailing list:
-    <form method="post" action="https://gaggle.email/join/sap@gaggle.email">
-      <input name="name" type="text" placeholder="Your Name" title="First and last name" pattern="[^\s]+\s+[^\s]+.*" required/><br/>
-      <input name="email" type="email" placeholder="you@example.com" title="Email address" required/></br>
-      <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
-    </form>
+    To receive bulletins, chapel news, and announcements straight to your inbox:
+    <a class="action" title="Subscribe to mailing list" href="https://docs.google.com/forms/d/e/1FAIpQLSfo5-e8V5h0WRtM5Pp8SELuAwBv8xW0Il9Gv-bHZe7QpWAjBg/viewform?usp=header"><i class="fa-regular fa-envelope fa-xl"></i><span>Join our Mailing List</span></a>
   </div>
   <div>
     <h2>Bulletins</h2>

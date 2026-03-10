@@ -60,11 +60,11 @@ together at length in our outdoor Pavilion.
 Our primary method of communicating with the faithful is the chapel's mailing list.
 To receive news, announcements, and bulletins in your inbox, subscribe below:
 
-<form method="post" action="https://gaggle.email/join/sap@gaggle.email">
-  <input name="name" type="text" placeholder="Your Name" title="First and last name" pattern="[^\s]+\s+[^\s]+.*" autocomplete="name" required/><br/>
-  <input name="email" type="email" placeholder="you@example.com" title="Email address" autocomplete="email" required/></br>
-  <button type="submit"><i class="fa fa-circle-arrow-right fa-lg"></i> Subscribe!</button>
-</form>
+<div>
+  <h2>Mailing List</h2>
+  To receive bulletins, chapel news, and announcements straight to your inbox:
+  <a class="action" title="Subscribe to mailing list" href="https://docs.google.com/forms/d/e/1FAIpQLSfo5-e8V5h0WRtM5Pp8SELuAwBv8xW0Il9Gv-bHZe7QpWAjBg/viewform?usp=header"><i class="fa-regular fa-envelope fa-xl"></i><span>Join our Mailing List</span></a>
+</div>
 
 ### Bulletins
 Bulletins are also posted weekly at the link below.
@@ -98,7 +98,7 @@ To become a member of Saint Anthony's, simply complete our registration form:
 Out of respect for Our Lord and edification of our neighbor, men and women are asked to
 dress with modesty and dignity.
 
-### Gentlemen 
+### Gentlemen
 
 Gentlemen are asked to remove their hats before entering the chapel. Slacks along with a
 coat and tie are the most appropriate attire. Casual clothing such as jeans, T-shirts, and
