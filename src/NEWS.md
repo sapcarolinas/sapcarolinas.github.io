@@ -2,7 +2,7 @@
 Join us in the Pavilion after BOTH Masses on on Sunday, March 15 for a coffee bar, pastry shop and more. We will honor Saint Joseph and enjoy Laetare Sunday and Mothering Sunday. Bring ca$h (other forms of payment available).
 
 # Are you an adult in need of Confirmation?
-We can help! Please sign up in the vestibule or email wittmanjp@gmail.com.
+We can help! Please sign up in the vestibule or email <wittmanjp@gmail.com>.
 
 # Prayer Crusade announced
 [*U.S. District Superior Announces Prayer Crusade Preceding Episcopal Consecrations*](https://sspx.org/en/news/us-district-superior-announces-prayer-crusade-preceding-episcopal-consecrations-57303)
