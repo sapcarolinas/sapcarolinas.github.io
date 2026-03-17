@@ -33,6 +33,11 @@ Centrally located near Charlotte, we offer the traditional Latin Mass and all Sa
     <a title="Find us on Google Maps" href="https://maps.google.com/maps?cid=5945644234549736924"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
   </div>
 </div>
+
+## Holy Week
+
+Our [2026 Holy Week schedule](/news/#holy-week-schedule) is now available.
+
 <h2>Upcoming Schedule</h2>
 <div class="schedule">
   <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showTitle=0&showDate=0&showNav=0&showPrint=0&title=Upcoming%20Schedule&showCalendars=0&showTz=0&showTabs=0&mode=AGENDA&src=Y2FsZW5kYXJAc2FpbnRhbnRob255cy5jb20&color=%23336699" style="border-width:0" frameborder="0" scrolling="no"></iframe>
