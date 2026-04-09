@@ -7,7 +7,7 @@ Saint Anthony's is a Catholic chapel served by the [Society of Saint Pius X](htt
 Centrally located near Charlotte, we offer the traditional Latin Mass and all Sacraments in their forms prior to the Second Vatican Council.
 
 <div class="split2" id="banner">
-  <div id="mass-times" class="schedule">
+ <div id="mass-times" class="schedule">
     <h2>Mass Times</h2>
     <h3>Saturday</h3>
     <table>
@@ -33,10 +33,6 @@ Centrally located near Charlotte, we offer the traditional Latin Mass and all Sa
     <a title="Find us on Google Maps" href="https://maps.google.com/maps?cid=5945644234549736924"><i class="fa-solid fa-location-dot"></i>108 Horseshoe Bend Beach Road<span class="mobile-hidden">, Mount Holly, NC</span></span></a>
   </div>
 </div>
-
-## Holy Week
-
-Our [2026 Holy Week schedule](/news/#holy-week-schedule) is now available.
 
 <h2>Upcoming Schedule</h2>
 <div class="schedule">
