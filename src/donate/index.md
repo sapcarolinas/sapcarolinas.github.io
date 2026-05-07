@@ -26,7 +26,7 @@ Waxhaw, NC 28173
 
 ## Considering a major contribution?
 
-If you are considering a major contribution for The New Saint Anthony's, we warmly invite you to contact our fundraising chairman, Mr. Chris Lauer:
+If you are considering a major contribution for The New Saint Anthony's, we warmly invite you to contact our fundraising chairman, Mr. Carlo Cerra:
 
 <ul class="action-list nsa-contact">
   <li><a title="Call the New Saint Anthony's Team" href="tel:+19805018672"><i class="fa-solid fa-phone fa-lg"></i>(980) 501-8672</a></li>
